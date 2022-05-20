@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>center_BCA VIRTUAL ACCOUNT</name>
+   <tag></tag>
+   <elementGuidId>21b52370-e5fa-4623-836c-cab4316a05ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='MainForm']/div[2]/div[2]/div[3]/div[3]/center</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>center</value>
+      <webElementGuid>401f682d-0067-479e-bc13-254e10f653ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BCA VIRTUAL ACCOUNT</value>
+      <webElementGuid>30370516-42fd-4c70-acfc-7ef0208e9402</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MainForm&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;col-12 shadow mt-5 bg-white rounded border border-warning&quot;]/div[@class=&quot;form-row&quot;]/div[@class=&quot;col-5 mt-4 mb-4 rounded border border-warning&quot;]/center[1]</value>
+      <webElementGuid>0875902f-c4f6-42dd-a9c2-76a057a4118f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='MainForm']/div[2]/div[2]/div[3]/div[3]/center</value>
+      <webElementGuid>c97781b4-04bb-4e9c-add3-ceae8c996b9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CIMB VIRTUAL ACCOUNT'])[1]/following::center[1]</value>
+      <webElementGuid>66851c7e-f4e7-485b-9245-de79308a9af0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INDOMARET PAYMENT CODE'])[1]/following::center[2]</value>
+      <webElementGuid>781dfda7-3af5-4ef7-94be-e56749fdbaa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/center</value>
+      <webElementGuid>fc286d56-e69f-4f0c-9cf3-8d9d256ccff1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//center[(text() = 'BCA VIRTUAL ACCOUNT' or . = 'BCA VIRTUAL ACCOUNT')]</value>
+      <webElementGuid>de69bd3d-33a0-4d52-be6a-cefda5894ff6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

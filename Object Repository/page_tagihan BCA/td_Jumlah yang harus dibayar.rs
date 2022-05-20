@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Jumlah yang harus dibayar</name>
+   <tag></tag>
+   <elementGuidId>0b317ada-242a-4227-9381-8a235e22862d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div[2]/div/div/table/tbody/tr/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.pb-10.bold</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>f0f39277-566a-4ce1-a955-a5a3a152364c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rowspan</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>6edffd62-b024-49ae-8c1f-c4f218424f93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>6581be46-5952-47d9-a380-152762ea9ed0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pb-10 bold</value>
+      <webElementGuid>ed37c385-e11c-46f8-8362-18e45270ee63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jumlah yang harus dibayar</value>
+      <webElementGuid>0753d12d-8893-4fb9-932b-2a0fd52982cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;content-flex&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;box text-center mt-25&quot;]/table[@class=&quot;text-left m-auto mb-20 fs-13 trx-detail text-center&quot;]/tbody[1]/tr[1]/td[@class=&quot;pb-10 bold&quot;]</value>
+      <webElementGuid>0aca6347-dc55-4393-a1fa-86937655d261</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/page_tagihan BCA/text jumlah harus dibayar</value>
+      <webElementGuid>e5a745b3-cf61-4f00-883d-b86a304a99c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div[2]/div/div/table/tbody/tr/td</value>
+      <webElementGuid>98e1211e-d30c-455c-aeba-783249bb2992</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kode Pembayaran'])[1]/following::td[1]</value>
+      <webElementGuid>6888d5eb-7c07-47ed-a69d-e2d2194c3ec4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AXL65D2C52888334DF6A'])[1]/following::td[1]</value>
+      <webElementGuid>efcffff8-8a6f-49c3-b53a-b80e7dd80e9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 300.000,00'])[1]/preceding::td[1]</value>
+      <webElementGuid>1fc32d28-0085-4a7e-8f59-82a4e22ec680</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='otomatis'])[1]/preceding::td[2]</value>
+      <webElementGuid>76ad334f-66e5-451a-81d0-e7308e939d2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Jumlah yang harus dibayar']/parent::*</value>
+      <webElementGuid>bcf1175b-d166-4c2c-b130-79d7df97ec7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td</value>
+      <webElementGuid>a91d3c87-9d6d-4750-9a3e-7a99f22c24ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Jumlah yang harus dibayar' or . = 'Jumlah yang harus dibayar')]</value>
+      <webElementGuid>9cbe2d3a-d124-41e8-bff9-2d025c90a9f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

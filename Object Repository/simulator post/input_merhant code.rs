@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_merhant code</name>
+   <tag></tag>
+   <elementGuidId>0915b8d4-25a3-4171-97da-2f69c90f80fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//vaadin-text-field</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>vaadin-text-field</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>vaadin-text-field</value>
+      <webElementGuid>c00e04ef-3e88-4bd1-a949-65ba9e6156b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>7e05214f-dbc0-4d0a-bfba-e5487833e488</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;main-layout&quot;]/vaadin-vertical-layout[1]/vaadin-vertical-layout[1]/vaadin-vertical-layout[1]/vaadin-horizontal-layout[1]/vaadin-text-field[1]</value>
+      <webElementGuid>bb25ce67-fe5b-4cbf-94d7-a95953a9b582</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//vaadin-text-field</value>
+      <webElementGuid>ce12dba2-b878-4acb-a9e7-23367fd8377c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

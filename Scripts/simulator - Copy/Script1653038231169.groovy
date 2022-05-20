@@ -23,21 +23,7 @@ WebUI.navigateToUrl('https://simulatortest.e2pay.co.id/simulator/')
 
 WebUI.maximizeWindow()
 
-WebUI.delay(8)
-
-WebUI.click(findTestObject('simulator post/input_VA static'))
-
-WebUI.setText(findTestObject('simulator post/input_VA static'), '123')
-
-WebUI.click(findTestObject('simulator post/input_merhant code'))
-
-WebUI.setText(findTestObject('simulator post/input_merhant code'), 'IF000002_S00005')
-
-WebUI.click(findTestObject('simulator post/input_paymentID'))
-
-WebUI.setText(findTestObject('simulator post/input_paymentID'), '38')
-
-WebUI.setText(findTestObject('simulator post/input_amount'), '123400')
+WebUI.delay(3)
 
 WebUI.delay(2)
 

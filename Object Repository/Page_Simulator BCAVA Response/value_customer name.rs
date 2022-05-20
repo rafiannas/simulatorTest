@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>value_customer name</name>
+   <tag></tag>
+   <elementGuidId>51188ae8-1192-4ad7-9845-ff484e2ff081</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='MainForm']/div[2]/center/div/div/div/div[3]/h5</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>04b6d2df-637b-4f21-8baa-49fc8e331bb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>tes</value>
+      <webElementGuid>9b26305b-4886-411c-bb4a-56f2ffca86d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MainForm&quot;)/div[@class=&quot;col-12 p-2 mt-3 align-items-center&quot;]/center[1]/div[@class=&quot;col-11 shadow p-3 mb-5 bg-white rounded border border-warning&quot;]/div[@class=&quot;d-flex justify-content-center form-row col-12&quot;]/div[@class=&quot;d-flex justify-content-center form-group col-10&quot;]/div[@class=&quot;col-3 d-flex justify-content-left&quot;]/h5[1]</value>
+      <webElementGuid>93293ffd-02cd-40c5-9d39-aa720cc6590d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='MainForm']/div[2]/center/div/div/div/div[3]/h5</value>
+      <webElementGuid>ddd9e7d7-5285-4ee4-a3e2-9dce1369a736</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[1]/following::h5[1]</value>
+      <webElementGuid>94908623-2d67-4580-b22a-fc700647cf9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Name'])[1]/following::h5[2]</value>
+      <webElementGuid>8fe2a619-9479-42d7-bfb8-f2d9b1be4b82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Auth Code'])[1]/preceding::h5[1]</value>
+      <webElementGuid>c9fbb685-ad0e-4637-9f0d-8887ecf73415</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[2]/preceding::h5[2]</value>
+      <webElementGuid>cd336653-bade-43ac-96ec-35f095b500e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='tes']/parent::*</value>
+      <webElementGuid>4637e264-8c21-48ca-ae91-335d836c11c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/h5</value>
+      <webElementGuid>522cca49-3752-4dbd-9a3a-2633d603466a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = 'tes' or . = 'tes')]</value>
+      <webElementGuid>acfd47c6-95a2-4572-9898-f0ca44f79ab7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

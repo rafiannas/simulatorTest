@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_700701701000000319</name>
+   <tag></tag>
+   <elementGuidId>9188200a-ce8a-41e3-8ada-26ba361196f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div[2]/div/div/div/div/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.fs-18.bold</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>53d64521-354a-44eb-b4ae-0449c38dd6c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fs-18 bold</value>
+      <webElementGuid>27f6abca-0f62-4544-b4ac-a3a7e815c6d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>700701701000000319</value>
+      <webElementGuid>cf2e501b-3691-4306-bb74-1ee2872d6d3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;content-flex&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;box text-center mt-25&quot;]/div[@class=&quot;content-center&quot;]/div[@class=&quot;box-media clearfix code-unique&quot;]/div[@class=&quot;box-media__content code-unique_text&quot;]/div[@class=&quot;fs-18 bold&quot;]</value>
+      <webElementGuid>d4d4b6f8-6df5-424e-897a-1d0919487c18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/page_tagihan BCA/value_kode pembayaran</value>
+      <webElementGuid>74e8c97a-f685-4fb9-aec7-38233cd098aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div[2]/div/div/div/div/div[2]/div[2]</value>
+      <webElementGuid>dc1c990a-671a-4bfb-bb37-717f732df935</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kode Pembayaran'])[1]/following::div[1]</value>
+      <webElementGuid>5b5a21d8-54ce-420f-86fa-d40c5b6b3c46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AXL65D2C52888334DF6A'])[1]/following::div[6]</value>
+      <webElementGuid>3b2407b3-c123-4f47-8a20-30781faf3489</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah yang harus dibayar'])[1]/preceding::div[1]</value>
+      <webElementGuid>1b3175d6-87c5-48e5-a549-6fe5f08b61fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 300.000,00'])[1]/preceding::div[1]</value>
+      <webElementGuid>c87df740-90a4-4d70-93f9-ecbf3a5302a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='700701701000000319']/parent::*</value>
+      <webElementGuid>e0328797-d012-4b6c-ad5a-17eb2cdb648a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div[2]</value>
+      <webElementGuid>a53eb0d1-5600-483e-a5c2-d7f255706145</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '700701701000000319' or . = '700701701000000319')]</value>
+      <webElementGuid>55045c83-c664-493d-b6f2-7bde858d9703</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

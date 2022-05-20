@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>center_INDOMARET PAYMENT CODE</name>
+   <tag></tag>
+   <elementGuidId>2818a438-fd12-46b3-866f-b5dd4526b358</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='MainForm']/div[2]/div[2]/div[2]/div[3]/center</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>center</value>
+      <webElementGuid>49e1e603-cd16-477e-9dc6-ddadc20f915e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>INDOMARET PAYMENT CODE</value>
+      <webElementGuid>092517ee-6a96-4afa-a8d9-17cf21a8dfc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MainForm&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;col-12 shadow mt-5 bg-white rounded border border-warning&quot;]/div[@class=&quot;form-row&quot;]/div[@class=&quot;col-5 mt-4 mb-4 rounded border border-warning&quot;]/center[1]</value>
+      <webElementGuid>27f03715-d5d0-4038-a8b5-6d8458b775ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='MainForm']/div[2]/div[2]/div[2]/div[3]/center</value>
+      <webElementGuid>4acf8360-b45a-47af-be75-1ba8a6618229</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ALFAMART PAYMENT CODE'])[1]/following::center[1]</value>
+      <webElementGuid>1a5f1627-630a-4888-9018-cac4cf281e72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BNI VIRTUAL ACCOUNT'])[1]/following::center[2]</value>
+      <webElementGuid>1fd95a92-5972-4f26-8103-6849833cc6b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CIMB VIRTUAL ACCOUNT'])[1]/preceding::center[1]</value>
+      <webElementGuid>d0e56748-68e0-485b-b80c-78a88b5fb8d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/center</value>
+      <webElementGuid>5f12c8ae-1b07-45e9-b444-0cfebd5e77a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//center[(text() = 'INDOMARET PAYMENT CODE' or . = 'INDOMARET PAYMENT CODE')]</value>
+      <webElementGuid>50300525-3b90-4d54-bd58-1320a14e6af1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

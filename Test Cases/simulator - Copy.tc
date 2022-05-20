@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>simulator</name>
+   <name>simulator - Copy</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>84224fcf-4c45-4a81-b1e2-d037bd1f4b80</testCaseGuid>
+   <testCaseGuid>56948a88-9305-4af5-bcd5-fce75b295792</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>6671eabc-33fe-4517-8056-6758088e4cf3</variableId>
+      <variableId>84f27da9-f511-4d74-bc3f-7b3d5ca96c62</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>11ddb010-542e-4a60-86dc-07906ff7cfb1</variableId>
+      <variableId>e7275911-6d2f-4bae-a60d-dcffae9e0ef8</variableId>
    </variableLinks>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>6671eabc-33fe-4517-8056-6758088e4cf3</id>
+      <id>84f27da9-f511-4d74-bc3f-7b3d5ca96c62</id>
       <masked>false</masked>
       <name>value_bayar</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>11ddb010-542e-4a60-86dc-07906ff7cfb1</id>
+      <id>e7275911-6d2f-4bae-a60d-dcffae9e0ef8</id>
       <masked>false</masked>
       <name>va</name>
    </variable>
