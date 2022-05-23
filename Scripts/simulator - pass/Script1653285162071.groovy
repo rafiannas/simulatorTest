@@ -46,6 +46,7 @@ WebUI.sendKeys(findTestObject('simulator post/input_paymentID'), Keys.chord(Keys
 WebUI.sendKeys(findTestObject('simulator post/input_paymentID'), Keys.chord(Keys.SHIFT, Keys.ARROW_LEFT, Keys.ARROW_LEFT, 
         Keys.ARROW_LEFT, Keys.ARROW_LEFT, Keys.ARROW_LEFT, Keys.ARROW_LEFT))
 
+'IF000002_S0000538189900'
 WebUI.sendKeys(findTestObject('simulator post/input_paymentID'), Keys.chord(Keys.CONTROL, 'x'))
 
 WebUI.click(findTestObject('simulator post/input_amount'))
