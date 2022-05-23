@@ -6,6 +6,7 @@ import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
 import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
 import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
 import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.mobile.keyword.builtin.SetTextKeyword as SetTextKeyword
 import com.kms.katalon.core.model.FailureHandling as FailureHandling
 import com.kms.katalon.core.testcase.TestCase as TestCase
 import com.kms.katalon.core.testdata.TestData as TestData
@@ -21,17 +22,11 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://simulatortest.e2pay.co.id/simulator/')
 
-WebUI.switchToWindowTitle('Simulator Page')
+WebUI.click(findTestObject('simulator custom/amount'))
 
-WebUI.click(findTestObject('Object Repository/tesr1/Page_Simulator Page/vaadin-text-field'))
+WebUI.sendKeys(findTestObject('simulator custom/amount'), Keys.chord(Keys.CONTROL, 'a'))
 
-WebUI.click(findTestObject('Object Repository/tesr1/Page_Simulator Page/vaadin-text-field_1'))
+WebUI.sendKeys(findTestObject('simulator custom/amount'), Keys.chord(Keys.DELETE))
 
-WebUI.click(findTestObject('Object Repository/tesr1/Page_Simulator Page/vaadin-text-field_1'))
-
-WebUI.click(findTestObject('Object Repository/tesr1/Page_Simulator Page/vaadin-text-field_1_2'))
-
-WebUI.click(findTestObject('Object Repository/tesr1/Page_Simulator Page/vaadin-text-field_1_2'))
-
-WebUI.click(findTestObject('Object Repository/tesr1/Page_Simulator Page/vaadin-text-field_1_2_3'))
+WebUI.sendKeys(findTestObject('simulator custom/amount'), Keys.chord(Keys.CONTROL, 'v'))
 

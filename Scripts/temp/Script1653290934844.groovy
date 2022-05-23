@@ -21,23 +21,13 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://simulatortest.e2pay.co.id/simulator/')
 
-WebUI.maximizeWindow()
-
-WebUI.delay(3)
+WebUI.delay(5)
 
 WebUI.click(findTestObject('simulator post/btn_proses payment'))
 
 WebUI.delay(3)
 
-WebUI.verifyElementText(findTestObject('page_tagihan BCA/p_Menunggu Pembayaran'), 'Menunggu Pembayaran')
-
-va = WebUI.getText(findTestObject('page_tagihan BCA/div_700701701000000319'))
-
-value_bayar = WebUI.getText(findTestObject('page_tagihan BCA/span_Rp 300.000,00'))
-
-WebUI.delay(2)
-
-WebUI.navigateToUrl('https://simulatortest.e2pay.co.id/pg-server/simulatorbank', FailureHandling.STOP_ON_FAILURE)
+WebUI.navigateToUrl('https://simulatortest.e2pay.co.id/pg-server/simulatorbank')
 
 WebUI.delay(3)
 
@@ -45,31 +35,19 @@ WebUI.verifyElementText(findTestObject('Page_Simulator Payment/text_Simulator Pa
 
 WebUI.click(findTestObject('Page_Simulator Payment/center_BCA VIRTUAL ACCOUNT'))
 
+WebUI.delay(3)
+
 WebUI.verifyElementText(findTestObject('Page_Simulator BCAVA/h1_Simulator BCA Virtual Account'), 'Simulator BCA Virtual Account')
 
-WebUI.setText(findTestObject('Page_Simulator BCAVA/input_Virtual Account_virtualAccount'), va)
+WebUI.setText(findTestObject('Page_Simulator BCAVA/input_Virtual Account_virtualAccount'), '700701701000000324')
 
 WebUI.click(findTestObject('Page_Simulator BCAVA/btn_cari VA'))
 
-WebUI.delay(2)
-
-WebUI.verifyElementText(findTestObject('Page_Simulator BCAVA/h3_Detail Transaction'), 'Detail Transaction')
-
-WebUI.verifyElementText(findTestObject('Page_Simulator BCAVA/text_detail no VA'), va)
-
-WebUI.setText(findTestObject('Page_Simulator BCAVA/input__paymentAmount'), value_bayar)
-
-WebUI.delay(3)
+WebUI.delay(1)
 
 WebUI.click(findTestObject('Page_Simulator BCAVA/btn_proses payment'))
 
-WebUI.delay(2)
+WebUI.setText(findTestObject('Page_Simulator BCAVA/input__paymentAmount'), '1110')
 
-WebUI.verifyElementText(findTestObject('Page_Simulator BCAVA Response/h1_Simulator Payment Partner Side'), 'Simulator Payment Partner Side')
-
-WebUI.verifyElementText(findTestObject('Page_Simulator BCAVA Response/h3_PAYMENT SUCCESS'), 'PAYMENT SUCCESS')
-
-WebUI.delay(3)
-
-WebUI.click(findTestObject('Page_Simulator BCAVA Response/btn_back to simulator'))
+WebUI.click(findTestObject('Page_Simulator BCAVA/btn_proses payment'))
 

@@ -21,15 +21,54 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://simulatortest.e2pay.co.id/simulator/')
 
-WebUI.maximizeWindow()
+WebUI.delay(4)
 
-WebUI.delay(3)
+WebUI.click(findTestObject('simulator post/input_merhant code'))
+
+WebUI.sendKeys(findTestObject('simulator post/input_merhant code'), Keys.chord(Keys.CONTROL, 'a'))
+
+WebUI.sendKeys(findTestObject('simulator post/input_merhant code'), Keys.chord(Keys.CONTROL, 'v'))
+
+WebUI.sendKeys(findTestObject('simulator post/input_merhant code'), Keys.chord(Keys.SHIFT, Keys.ARROW_LEFT, Keys.ARROW_LEFT, 
+        Keys.ARROW_LEFT, Keys.ARROW_LEFT, Keys.ARROW_LEFT, Keys.ARROW_LEFT, Keys.ARROW_LEFT, Keys.ARROW_LEFT))
+
+WebUI.sendKeys(findTestObject('simulator post/input_merhant code'), Keys.chord(Keys.CONTROL, 'x'))
+
+//WebUI.setText(findTestObject('simulator post/input_merhant code'), 'IF000002_S00005')
+WebUI.click(findTestObject('simulator post/input_paymentID'))
+
+WebUI.sendKeys(findTestObject('simulator post/input_paymentID'), Keys.chord(Keys.CONTROL, 'a'))
+
+WebUI.sendKeys(findTestObject('simulator post/input_paymentID'), Keys.chord(Keys.DELETE))
+
+WebUI.sendKeys(findTestObject('simulator post/input_paymentID'), Keys.chord(Keys.CONTROL, 'v'))
+
+WebUI.sendKeys(findTestObject('simulator post/input_paymentID'), Keys.chord(Keys.SHIFT, Keys.ARROW_LEFT, Keys.ARROW_LEFT, 
+        Keys.ARROW_LEFT, Keys.ARROW_LEFT, Keys.ARROW_LEFT, Keys.ARROW_LEFT))
+
+WebUI.sendKeys(findTestObject('simulator post/input_paymentID'), Keys.chord(Keys.CONTROL, 'x'))
+
+WebUI.click(findTestObject('simulator post/input_amount'))
+
+WebUI.sendKeys(findTestObject('simulator post/input_amount'), Keys.chord(Keys.CONTROL, 'a'))
+
+WebUI.sendKeys(findTestObject('simulator post/input_amount'), Keys.chord(Keys.DELETE))
+
+WebUI.sendKeys(findTestObject('simulator post/input_amount'), Keys.chord(Keys.CONTROL, 'v'))
+
+value_amount = WebUI.getText(findTestObject('simulator post/input_amount'))
+
+WebUI.delay(2)
+
+println(value_amount)
 
 WebUI.click(findTestObject('simulator post/btn_proses payment'))
 
 WebUI.delay(3)
 
 WebUI.verifyElementText(findTestObject('page_tagihan BCA/p_Menunggu Pembayaran'), 'Menunggu Pembayaran')
+
+WebUI.delay(3)
 
 va = WebUI.getText(findTestObject('page_tagihan BCA/div_700701701000000319'))
 
@@ -45,9 +84,13 @@ WebUI.verifyElementText(findTestObject('Page_Simulator Payment/text_Simulator Pa
 
 WebUI.click(findTestObject('Page_Simulator Payment/center_BCA VIRTUAL ACCOUNT'))
 
+WebUI.delay(3)
+
 WebUI.verifyElementText(findTestObject('Page_Simulator BCAVA/h1_Simulator BCA Virtual Account'), 'Simulator BCA Virtual Account')
 
 WebUI.setText(findTestObject('Page_Simulator BCAVA/input_Virtual Account_virtualAccount'), va)
+
+WebUI.delay(3)
 
 WebUI.click(findTestObject('Page_Simulator BCAVA/btn_cari VA'))
 
@@ -57,8 +100,11 @@ WebUI.verifyElementText(findTestObject('Page_Simulator BCAVA/h3_Detail Transacti
 
 WebUI.verifyElementText(findTestObject('Page_Simulator BCAVA/text_detail no VA'), va)
 
-WebUI.setText(findTestObject('Page_Simulator BCAVA/input__paymentAmount'), value_bayar)
+WebUI.sendKeys(findTestObject('Page_Simulator BCAVA/input__paymentAmount'), Keys.chord(Keys.CONTROL, 'v'))
 
+WebUI.sendKeys(findTestObject('Page_Simulator BCAVA/input__paymentAmount'), Keys.chord(Keys.BACK_SPACE, Keys.BACK_SPACE))
+
+//WebUI.setText(findTestObject('Page_Simulator BCAVA/input__paymentAmount'), value_bayar)
 WebUI.delay(3)
 
 WebUI.click(findTestObject('Page_Simulator BCAVA/btn_proses payment'))

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>simulatorCustom</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0ac58e88-1119-4fbf-b478-437b6fc12dfd</testCaseGuid>
+   <variable>
+      <defaultValue>111</defaultValue>
+      <description></description>
+      <id>5afac27b-d4a8-4c0b-bffb-e5187ce0408c</id>
+      <masked>false</masked>
+      <name>abbb</name>
+   </variable>
+</TestCaseEntity>

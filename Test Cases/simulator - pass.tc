@@ -1,22 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>simulator - Copy</name>
+   <name>simulator - pass</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>56948a88-9305-4af5-bcd5-fce75b295792</testCaseGuid>
+   <testCaseGuid>6f61827b-42dd-4f39-9675-32de5e703864</testCaseGuid>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>84f27da9-f511-4d74-bc3f-7b3d5ca96c62</id>
+      <id>be44a65e-67d5-4f6b-b965-2f84057546cd</id>
       <masked>false</masked>
       <name>value_bayar</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>e7275911-6d2f-4bae-a60d-dcffae9e0ef8</id>
+      <id>65809cc1-0fa7-4001-af3a-b12218ede5f0</id>
       <masked>false</masked>
       <name>va</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>7c852cef-d487-4f97-b87d-e07d81cb87fd</id>
+      <masked>false</masked>
+      <name>value_amount</name>
    </variable>
 </TestCaseEntity>
