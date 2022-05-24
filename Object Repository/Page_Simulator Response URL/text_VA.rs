@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_VA</name>
+   <tag></tag>
+   <elementGuidId>1142175c-30e0-47ea-b36a-4efcbacf9097</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='MainForm']/div[2]/center/div/div/div[3]/div[3]/h5</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>c5212e09-633b-4b9b-8286-35986d32c0fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>9880043400047688</value>
+      <webElementGuid>5c6b2ed1-0ff3-42ce-ae39-f1d72c539a70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MainForm&quot;)/div[@class=&quot;col-12 p-2 mt-3 align-items-center&quot;]/center[1]/div[@class=&quot;col-11 shadow p-3 mb-5 bg-white rounded border border-warning&quot;]/div[@class=&quot;d-flex justify-content-center form-row col-12&quot;]/div[@class=&quot;d-flex justify-content-center form-group col-10&quot;]/div[@class=&quot;col-3 d-flex justify-content-left&quot;]/h5[1]</value>
+      <webElementGuid>808128fe-0924-40bf-bd35-75350e599086</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='MainForm']/div[2]/center/div/div/div[3]/div[3]/h5</value>
+      <webElementGuid>2ed454d3-ac74-4db0-ae04-ceffe1583804</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[3]/following::h5[1]</value>
+      <webElementGuid>c6190959-30f4-49f3-8962-2497c890df88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VA / Payment Code'])[1]/following::h5[2]</value>
+      <webElementGuid>891033ea-cac1-463e-bbab-285671d165b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PAYMENT SUCCESS'])[1]/preceding::h5[1]</value>
+      <webElementGuid>d619c1dd-cc9a-4e82-ba9c-c38b45e4dc9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::h5[1]</value>
+      <webElementGuid>8ad90519-74fb-4a94-b716-5c0b32936666</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='9880043400047688']/parent::*</value>
+      <webElementGuid>24500f08-58fd-4eab-9acc-956b8b93cf25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/h5</value>
+      <webElementGuid>eb0ac351-e744-485c-bd1b-2c8a037a4665</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = '9880043400047688' or . = '9880043400047688')]</value>
+      <webElementGuid>02ce1269-bb5f-4e63-92b7-26c3370a15e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

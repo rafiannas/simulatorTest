@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>simulator - pass BNI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>34050c52-5dda-4309-bc61-6598151e5c67</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4976dbb9-50b6-4db9-b144-6b5ea58e5594</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>586d1f5a-0f71-479b-9866-94a0794cae82</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d9561012-b9e9-4a13-9711-b3f1d93a65c6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4976dbb9-50b6-4db9-b144-6b5ea58e5594</id>
+      <masked>false</masked>
+      <name>value_bayar</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>586d1f5a-0f71-479b-9866-94a0794cae82</id>
+      <masked>false</masked>
+      <name>va</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>d9561012-b9e9-4a13-9711-b3f1d93a65c6</id>
+      <masked>false</masked>
+      <name>value_amount</name>
+   </variable>
+</TestCaseEntity>

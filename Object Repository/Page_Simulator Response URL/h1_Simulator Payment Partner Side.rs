@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Simulator Payment Partner Side</name>
+   <tag></tag>
+   <elementGuidId>1f3925f9-ec31-443c-b57a-840c784800ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='MainForm']/div[2]/center/div/center/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>c1607bf8-c2eb-40c7-a140-a5989e235f7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Simulator Payment Partner Side</value>
+      <webElementGuid>35b3c7c7-d6aa-403d-892d-e12f4c785b90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MainForm&quot;)/div[@class=&quot;col-12 p-2 mt-3 align-items-center&quot;]/center[1]/div[@class=&quot;col-11 shadow p-3 mb-5 bg-white rounded border border-warning&quot;]/center[1]/h1[1]</value>
+      <webElementGuid>e0310454-a17c-41b8-929d-a939bbfb3ae0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='MainForm']/div[2]/center/div/center/h1</value>
+      <webElementGuid>3aeb0be0-fbf0-43c4-98b8-b1b5e9ff2e22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Name'])[1]/preceding::h1[1]</value>
+      <webElementGuid>4f00da09-b54c-4548-a7fb-9c87c4051513</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[1]/preceding::h1[1]</value>
+      <webElementGuid>fea7c9fd-c536-42a5-89b1-dca1c7d4e97c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Simulator Payment Partner Side']/parent::*</value>
+      <webElementGuid>ce8fe48f-9b4e-4928-aa61-7921d1ed8790</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>dddacd3a-8bff-484c-ac7a-d7e9bc96dfa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Simulator Payment Partner Side' or . = 'Simulator Payment Partner Side')]</value>
+      <webElementGuid>dc80c3db-84b7-4324-9301-c0acc341a180</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
