@@ -1,0 +1,32 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Permata VA noPay,Chrome 101.0.4951.67,,,2022-05-24 11:07:27,2022-05-24 11:08:17,50.125s,PASSED
+,,,,,,,
+Test Cases/simulator - pass PERMATA noPay,Chrome 101.0.4951.67,,,2022-05-24 11:07:28,2022-05-24 11:08:17,49.495s,PASSED
+"openBrowser("""")",Chrome 101.0.4951.67,,,2022-05-24 11:07:29,2022-05-24 11:07:34,5.196s,PASSED
+"navigateToUrl(""https://simulatortest.e2pay.co.id/simulator/"")",Chrome 101.0.4951.67,,,2022-05-24 11:07:34,2022-05-24 11:07:37,2.988s,PASSED
+delay(4),Chrome 101.0.4951.67,,,2022-05-24 11:07:37,2022-05-24 11:07:41,4.127s,PASSED
+"click(findTestObject(""simulator post/input_merhant code""))",Chrome 101.0.4951.67,,,2022-05-24 11:07:41,2022-05-24 11:07:42,0.719s,PASSED
+"sendKeys(findTestObject(""simulator post/input_merhant code""), Keys.chord(CONTROL, ""a""))",Chrome 101.0.4951.67,,,2022-05-24 11:07:42,2022-05-24 11:07:43,0.598s,PASSED
+"sendKeys(findTestObject(""simulator post/input_merhant code""), Keys.chord(CONTROL, ""v""))",Chrome 101.0.4951.67,,,2022-05-24 11:07:43,2022-05-24 11:07:43,0.551s,PASSED
+"sendKeys(findTestObject(""simulator post/input_merhant code""), Keys.chord(SHIFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT))",Chrome 101.0.4951.67,,,2022-05-24 11:07:43,2022-05-24 11:07:44,0.537s,PASSED
+"sendKeys(findTestObject(""simulator post/input_merhant code""), Keys.chord(CONTROL, ""x""))",Chrome 101.0.4951.67,,,2022-05-24 11:07:44,2022-05-24 11:07:44,0.512s,PASSED
+"click(findTestObject(""simulator post/input_paymentID""))",Chrome 101.0.4951.67,,,2022-05-24 11:07:44,2022-05-24 11:07:45,0.565s,PASSED
+"sendKeys(findTestObject(""simulator post/input_paymentID""), Keys.chord(CONTROL, ""a""))",Chrome 101.0.4951.67,,,2022-05-24 11:07:45,2022-05-24 11:07:46,0.770s,PASSED
+"sendKeys(findTestObject(""simulator post/input_paymentID""), Keys.chord(DELETE))",Chrome 101.0.4951.67,,,2022-05-24 11:07:46,2022-05-24 11:07:46,0.529s,PASSED
+"sendKeys(findTestObject(""simulator post/input_paymentID""), Keys.chord(CONTROL, ""v""))",Chrome 101.0.4951.67,,,2022-05-24 11:07:46,2022-05-24 11:07:47,0.563s,PASSED
+"sendKeys(findTestObject(""simulator post/input_paymentID""), Keys.chord(SHIFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT))",Chrome 101.0.4951.67,,,2022-05-24 11:07:47,2022-05-24 11:07:48,1.018s,PASSED
+"sendKeys(findTestObject(""simulator post/input_paymentID""), Keys.chord(CONTROL, ""x""))",Chrome 101.0.4951.67,"EPT0000222199900
+",,2022-05-24 11:07:48,2022-05-24 11:07:48,0.539s,PASSED
+"click(findTestObject(""simulator post/input_amount""))",Chrome 101.0.4951.67,,,2022-05-24 11:07:48,2022-05-24 11:07:49,0.558s,PASSED
+"sendKeys(findTestObject(""simulator post/input_amount""), Keys.chord(CONTROL, ""a""))",Chrome 101.0.4951.67,,,2022-05-24 11:07:49,2022-05-24 11:07:50,0.743s,PASSED
+"sendKeys(findTestObject(""simulator post/input_amount""), Keys.chord(DELETE))",Chrome 101.0.4951.67,,,2022-05-24 11:07:50,2022-05-24 11:07:50,0.469s,PASSED
+"sendKeys(findTestObject(""simulator post/input_amount""), Keys.chord(CONTROL, ""v""))",Chrome 101.0.4951.67,,,2022-05-24 11:07:50,2022-05-24 11:07:51,0.509s,PASSED
+"value_amount = getText(findTestObject(""simulator post/input_amount""))",Chrome 101.0.4951.67,,,2022-05-24 11:07:51,2022-05-24 11:07:51,0.461s,PASSED
+delay(2),Chrome 101.0.4951.67,,,2022-05-24 11:07:51,2022-05-24 11:07:53,2.004s,PASSED
+println(value_amount),Chrome 101.0.4951.67,,,2022-05-24 11:07:53,2022-05-24 11:07:53,0.012s,PASSED
+"click(findTestObject(""simulator post/btn_proses payment""))",Chrome 101.0.4951.67,,,2022-05-24 11:07:53,2022-05-24 11:07:54,0.533s,PASSED
+delay(3),Chrome 101.0.4951.67,,,2022-05-24 11:07:54,2022-05-24 11:07:57,3.010s,PASSED
+"va = getText(findTestObject(""page_tagihan BCA/div_700701701000000319""))",Chrome 101.0.4951.67,,,2022-05-24 11:07:57,2022-05-24 11:07:57,0.702s,PASSED
+"value_bayar = getText(findTestObject(""page_tagihan BCA/span_Rp 300.000,00""))",Chrome 101.0.4951.67,,,2022-05-24 11:07:57,2022-05-24 11:07:58,0.653s,PASSED
+delay(2),Chrome 101.0.4951.67,,,2022-05-24 11:07:58,2022-05-24 11:08:00,2.008s,PASSED
+takeFullPageScreenshot(),Chrome 101.0.4951.67,,,2022-05-24 11:08:00,2022-05-24 11:08:17,17.237s,PASSED

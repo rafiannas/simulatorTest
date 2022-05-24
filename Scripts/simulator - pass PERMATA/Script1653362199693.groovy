@@ -46,7 +46,7 @@ WebUI.sendKeys(findTestObject('simulator post/input_paymentID'), Keys.chord(Keys
 WebUI.sendKeys(findTestObject('simulator post/input_paymentID'), Keys.chord(Keys.SHIFT, Keys.ARROW_LEFT, Keys.ARROW_LEFT, 
         Keys.ARROW_LEFT, Keys.ARROW_LEFT, Keys.ARROW_LEFT, Keys.ARROW_LEFT))
 
-'EPT0000228111000'
+'EPT0000222213300'
 WebUI.sendKeys(findTestObject('simulator post/input_paymentID'), Keys.chord(Keys.CONTROL, 'x'))
 
 WebUI.click(findTestObject('simulator post/input_amount'))
@@ -79,17 +79,31 @@ WebUI.delay(3)
 
 WebUI.verifyElementText(findTestObject('Page_Simulator Payment/text_Simulator Payment Partner Side'), 'Simulator Payment Partner Side')
 
-WebUI.click(findTestObject('Page_Simulator Payment/center_BNI VIRTUAL ACCOUNT'))
+WebUI.click(findTestObject('Page_Simulator Payment/center_PERMATA VIRTUAL ACCOUNT'))
 
 WebUI.delay(3)
 
-WebUI.verifyElementText(findTestObject('Page_Simulator BCAVA/h1_Simulator BCA Virtual Account'), 'Simulator BNI Virtual Account')
+WebUI.verifyElementText(findTestObject('Page_Simulator BCAVA/h1_Simulator BCA Virtual Account'), 'Simulator Permata Virtual Account')
 
-WebUI.setText(findTestObject('Page_Simulator BNI/input_virtual Account'), va)
+WebUI.setText(findTestObject('Page_Simulator BCAVA/input_Virtual Account_virtualAccount'), va)
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('Page_Simulator BNI/btn_proses payment'))
+WebUI.click(findTestObject('Page_Simulator BCAVA/btn_cari VA'))
+
+WebUI.delay(2)
+
+WebUI.verifyElementText(findTestObject('Page_Simulator BCAVA/h3_Detail Transaction'), 'Detail Transaction')
+
+WebUI.verifyElementText(findTestObject('Page_Simulator BCAVA/text_detail no VA'), va)
+
+WebUI.sendKeys(findTestObject('Page_Simulator BCAVA/input__paymentAmount'), Keys.chord(Keys.CONTROL, 'v'))
+
+WebUI.sendKeys(findTestObject('Page_Simulator BCAVA/input__paymentAmount'), Keys.chord(Keys.BACK_SPACE, Keys.BACK_SPACE))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Page_Simulator BCAVA/btn_proses payment'))
 
 WebUI.delay(2)
 

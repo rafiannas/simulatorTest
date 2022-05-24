@@ -1,0 +1,29 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Permata VA noPay,Chrome 101.0.4951.67,,,2022-05-24 11:04:15,2022-05-24 11:05:19,1m - 4.151s,FAILED
+,,,,,,,
+Test Cases/simulator - pass PERMATA noPay,Chrome 101.0.4951.67,,,2022-05-24 11:04:16,2022-05-24 11:05:19,1m - 3.529s,FAILED
+"openBrowser("""")",Chrome 101.0.4951.67,,,2022-05-24 11:04:17,2022-05-24 11:04:22,5.007s,PASSED
+"navigateToUrl(""https://simulatortest.e2pay.co.id/simulator/"")",Chrome 101.0.4951.67,,,2022-05-24 11:04:22,2022-05-24 11:04:26,4.270s,PASSED
+delay(4),Chrome 101.0.4951.67,,,2022-05-24 11:04:26,2022-05-24 11:04:30,4.069s,PASSED
+"click(findTestObject(""simulator post/input_merhant code""))",Chrome 101.0.4951.67,,,2022-05-24 11:04:30,2022-05-24 11:04:33,2.165s,PASSED
+"sendKeys(findTestObject(""simulator post/input_merhant code""), Keys.chord(CONTROL, ""a""))",Chrome 101.0.4951.67,,,2022-05-24 11:04:33,2022-05-24 11:04:33,0.561s,PASSED
+"sendKeys(findTestObject(""simulator post/input_merhant code""), Keys.chord(CONTROL, ""v""))",Chrome 101.0.4951.67,,,2022-05-24 11:04:33,2022-05-24 11:04:34,0.594s,PASSED
+"sendKeys(findTestObject(""simulator post/input_merhant code""), Keys.chord(SHIFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT))",Chrome 101.0.4951.67,,,2022-05-24 11:04:34,2022-05-24 11:04:35,0.812s,PASSED
+"sendKeys(findTestObject(""simulator post/input_merhant code""), Keys.chord(CONTROL, ""x""))",Chrome 101.0.4951.67,,,2022-05-24 11:04:35,2022-05-24 11:04:35,0.539s,PASSED
+"click(findTestObject(""simulator post/input_paymentID""))",Chrome 101.0.4951.67,,,2022-05-24 11:04:35,2022-05-24 11:04:36,0.567s,PASSED
+"sendKeys(findTestObject(""simulator post/input_paymentID""), Keys.chord(CONTROL, ""a""))",Chrome 101.0.4951.67,,,2022-05-24 11:04:36,2022-05-24 11:04:37,0.919s,PASSED
+"sendKeys(findTestObject(""simulator post/input_paymentID""), Keys.chord(DELETE))",Chrome 101.0.4951.67,,,2022-05-24 11:04:37,2022-05-24 11:04:37,0.532s,PASSED
+"sendKeys(findTestObject(""simulator post/input_paymentID""), Keys.chord(CONTROL, ""v""))",Chrome 101.0.4951.67,,,2022-05-24 11:04:37,2022-05-24 11:04:38,0.468s,PASSED
+"sendKeys(findTestObject(""simulator post/input_paymentID""), Keys.chord(SHIFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT))",Chrome 101.0.4951.67,,,2022-05-24 11:04:38,2022-05-24 11:04:38,0.485s,PASSED
+"sendKeys(findTestObject(""simulator post/input_paymentID""), Keys.chord(CONTROL, ""x""))",Chrome 101.0.4951.67,"EPT0000222199900
+",,2022-05-24 11:04:38,2022-05-24 11:04:39,0.737s,PASSED
+"click(findTestObject(""simulator post/input_amount""))",Chrome 101.0.4951.67,,,2022-05-24 11:04:39,2022-05-24 11:04:39,0.519s,PASSED
+"sendKeys(findTestObject(""simulator post/input_amount""), Keys.chord(CONTROL, ""a""))",Chrome 101.0.4951.67,,,2022-05-24 11:04:39,2022-05-24 11:04:40,0.760s,PASSED
+"sendKeys(findTestObject(""simulator post/input_amount""), Keys.chord(DELETE))",Chrome 101.0.4951.67,,,2022-05-24 11:04:40,2022-05-24 11:04:41,0.473s,PASSED
+"sendKeys(findTestObject(""simulator post/input_amount""), Keys.chord(CONTROL, ""v""))",Chrome 101.0.4951.67,,,2022-05-24 11:04:41,2022-05-24 11:04:41,0.574s,PASSED
+"value_amount = getText(findTestObject(""simulator post/input_amount""))",Chrome 101.0.4951.67,,,2022-05-24 11:04:41,2022-05-24 11:04:42,0.987s,PASSED
+delay(2),Chrome 101.0.4951.67,,,2022-05-24 11:04:42,2022-05-24 11:04:44,2.012s,PASSED
+println(value_amount),Chrome 101.0.4951.67,,,2022-05-24 11:04:44,2022-05-24 11:04:44,0.005s,PASSED
+"click(findTestObject(""simulator post/btn_proses payment""))",Chrome 101.0.4951.67,,,2022-05-24 11:04:44,2022-05-24 11:04:45,0.523s,PASSED
+delay(3),Chrome 101.0.4951.67,,,2022-05-24 11:04:45,2022-05-24 11:04:48,3.009s,PASSED
+"va = getText(findTestObject(""page_tagihan BCA/div_700701701000000319""))",Chrome 101.0.4951.67,,,2022-05-24 11:04:48,2022-05-24 11:05:19,31.516s,FAILED

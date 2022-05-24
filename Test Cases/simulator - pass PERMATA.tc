@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>simulator - pass PERMATA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fce4eb03-3e14-4f5a-96ac-3a54fd06f470</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ccc191f1-99d5-443d-bfe5-c0d036767e20</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e0a4736a-4674-41de-b267-9426ea30b057</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>50c30c7b-d6b4-42c2-b86c-032f6dcd9d91</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ccc191f1-99d5-443d-bfe5-c0d036767e20</id>
+      <masked>false</masked>
+      <name>value_bayar</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e0a4736a-4674-41de-b267-9426ea30b057</id>
+      <masked>false</masked>
+      <name>va</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>50c30c7b-d6b4-42c2-b86c-032f6dcd9d91</id>
+      <masked>false</masked>
+      <name>value_amount</name>
+   </variable>
+</TestCaseEntity>
