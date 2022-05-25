@@ -17,11 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+long ts1 = System.currentTimeMillis()
+
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://simulatortest.e2pay.co.id/simulator/')
 
-WebUI.delay(4)
+WebUI.delay(2)
 
 WebUI.click(findTestObject('simulator post/input_merhant code'))
 
@@ -46,7 +48,7 @@ WebUI.sendKeys(findTestObject('simulator post/input_paymentID'), Keys.chord(Keys
 WebUI.sendKeys(findTestObject('simulator post/input_paymentID'), Keys.chord(Keys.SHIFT, Keys.ARROW_LEFT, Keys.ARROW_LEFT, 
         Keys.ARROW_LEFT, Keys.ARROW_LEFT, Keys.ARROW_LEFT, Keys.ARROW_LEFT))
 
-'EPT0000222213300'
+'EPT0000222443300'
 WebUI.sendKeys(findTestObject('simulator post/input_paymentID'), Keys.chord(Keys.CONTROL, 'x'))
 
 WebUI.click(findTestObject('simulator post/input_amount'))
@@ -71,27 +73,23 @@ va = WebUI.getText(findTestObject('page_tagihan BCA/div_700701701000000319'))
 
 value_bayar = WebUI.getText(findTestObject('page_tagihan BCA/span_Rp 300.000,00'))
 
-WebUI.delay(2)
-
 WebUI.navigateToUrl('https://simulatortest.e2pay.co.id/pg-server/simulatorbank', FailureHandling.STOP_ON_FAILURE)
 
-WebUI.delay(3)
+WebUI.delay(2)
 
 WebUI.verifyElementText(findTestObject('Page_Simulator Payment/text_Simulator Payment Partner Side'), 'Simulator Payment Partner Side')
 
 WebUI.click(findTestObject('Page_Simulator Payment/center_PERMATA VIRTUAL ACCOUNT'))
 
-WebUI.delay(3)
+WebUI.delay(1)
 
 WebUI.verifyElementText(findTestObject('Page_Simulator BCAVA/h1_Simulator BCA Virtual Account'), 'Simulator Permata Virtual Account')
 
 WebUI.setText(findTestObject('Page_Simulator BCAVA/input_Virtual Account_virtualAccount'), va)
 
-WebUI.delay(3)
-
 WebUI.click(findTestObject('Page_Simulator BCAVA/btn_cari VA'))
 
-WebUI.delay(2)
+WebUI.delay(1)
 
 WebUI.verifyElementText(findTestObject('Page_Simulator BCAVA/h3_Detail Transaction'), 'Detail Transaction')
 
@@ -101,17 +99,19 @@ WebUI.sendKeys(findTestObject('Page_Simulator BCAVA/input__paymentAmount'), Keys
 
 WebUI.sendKeys(findTestObject('Page_Simulator BCAVA/input__paymentAmount'), Keys.chord(Keys.BACK_SPACE, Keys.BACK_SPACE))
 
-WebUI.delay(2)
-
 WebUI.click(findTestObject('Page_Simulator BCAVA/btn_proses payment'))
 
-WebUI.delay(2)
+WebUI.delay(1)
 
 WebUI.verifyElementText(findTestObject('Page_Simulator BCAVA Response/h1_Simulator Payment Partner Side'), 'Simulator Payment Partner Side')
 
 WebUI.verifyElementText(findTestObject('Page_Simulator BCAVA Response/h3_PAYMENT SUCCESS'), 'PAYMENT SUCCESS')
 
-WebUI.delay(3)
+long ts2 = System.currentTimeMillis()
+
+println(('Test duration: ' + (ts2 - ts1)) + ' miliseconds.')
+
+WebUI.delay(1)
 
 WebUI.click(findTestObject('Page_Simulator BCAVA Response/btn_back to simulator'))
 

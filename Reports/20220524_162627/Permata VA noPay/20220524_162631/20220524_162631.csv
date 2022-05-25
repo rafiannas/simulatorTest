@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Permata VA noPay,Chrome 101.0.4951.67,,,2022-05-24 16:31:43,2022-05-24 16:36:08,4m - 25.061s,PASSED
+,,,,,,,
+Test Cases/simulator - pass PERMATA noPay,Chrome 101.0.4951.67,,,2022-05-24 16:31:44,2022-05-24 16:36:08,4m - 24.442s,PASSED
+"openBrowser("""")",Chrome 101.0.4951.67,,,2022-05-24 16:31:46,2022-05-24 16:31:50,4.310s,PASSED
+"for ([i = 1, i <= 10, (i++)])",Chrome 101.0.4951.67,,,2022-05-24 16:31:50,2022-05-24 16:36:08,4m - 18.319s,PASSED

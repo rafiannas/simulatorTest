@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Permata VA noPay 2,Edge Chromium 101,,,2022-05-24 16:26:39,2022-05-24 16:31:34,4m - 55.149s,PASSED
+,,,,,,,
+Test Cases/simulator - pass PERMATA noPay - Copy,Edge Chromium 101,,,2022-05-24 16:26:40,2022-05-24 16:31:34,4m - 54.518s,PASSED
+"openBrowser("""")",Edge Chromium 101,,,2022-05-24 16:26:42,2022-05-24 16:26:48,6.717s,PASSED
+"for ([i = 1, i <= 10, (i++)])",Edge Chromium 101,,,2022-05-24 16:26:48,2022-05-24 16:31:34,4m - 46.143s,PASSED

@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Permata VA noPay,,,,2022-05-24 14:46:09,2022-05-24 14:46:17,7.201s,FAILED
+,,,,,,,
+Test Cases/simulator - pass PERMATA noPay,,,,2022-05-24 14:46:11,2022-05-24 14:46:17,5.674s,FAILED
+"openBrowser("""")",,,,2022-05-24 14:46:15,2022-05-24 14:46:17,1.720s,FAILED

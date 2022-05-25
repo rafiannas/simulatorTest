@@ -1,0 +1,1437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Permata VA noPay 2" time="278.211" tests="1" failures="0" errors="0">
+   <testsuite name="Permata VA noPay 2" tests="1" failures="0" errors="0" time="278.211" skipped="0" timestamp="2022-05-24 16:19:48" hostname="E2PAY - LAPTOP-9GU3I3BG" id="Test Suites/Permata VA noPay 2">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941"/>
+         <property name="logFiles" value="C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384023697.png, C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384034576.png, C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384055636.png, C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384060385.png, C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384083579.png, C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384089031.png, C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384108597.png, C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384113724.png, C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384133116.png, C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384138147.png, C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384161764.png, C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384166529.png, C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384185860.png, C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384190793.png, C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384209925.png, C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384214711.png, C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384235692.png, C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384241384.png, C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384261283.png, C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384266125.png"/>
+         <property name="hostName" value="E2PAY - LAPTOP-9GU3I3BG"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.3.0.208"/>
+         <property name="browser" value="Edge Chromium 101"/>
+         <property name="hostAddress" value="10.18.11.215"/>
+         <property name="sessionId" value="99efc3523a1f83a0902a86ed40cd552e"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/simulator - pass PERMATA noPay - Copy" time="277.467" classname="Test Cases/simulator - pass PERMATA noPay - Copy" status="PASSED">
+         <system-out><![CDATA[2022-05-24 16:19:49 - [TEST_CASE][PASSED] - Test Cases/simulator - pass PERMATA noPay - Copy: Test Cases/simulator - pass PERMATA noPay - Copy
+
+2022-05-24 16:19:51 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-05-24 16:19:52 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+2022-05-24 16:19:54 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-05-24 16:19:58 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-05-24 16:19:58 - [TEST_STEP][PASSED] - for ([i = 1, i <= 10, (i++)]): Taking screenshot successfully
+
+2022-05-24 16:19:58 - [TEST_STEP][PASSED] - navigateToUrl("www.google.com"): Navigate to 'http://www.google.com' successfully
+
+2022-05-24 16:20:02 - [MESSAGE][PASSED] - Navigate to 'http://www.google.com' successfully
+
+2022-05-24 16:20:02 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:20:03 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:20:03 - [TEST_STEP][PASSED] - temp_amount = amount + i: null
+
+2022-05-24 16:20:03 - [TEST_STEP][PASSED] - temp = all + temp_amount + "00": null
+
+2022-05-24 16:20:03 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Google/search"), temp): Text 'EPT0000222200100' is set on object 'Object Repository/Page_Google/search'
+
+2022-05-24 16:20:04 - [MESSAGE][PASSED] - Text 'EPT0000222200100' is set on object 'Object Repository/Page_Google/search'
+
+2022-05-24 16:20:04 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Page_Google/search"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:20:05 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:20:05 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Page_Google/search"), Keys.chord(CONTROL, "c")): Keys 'CONTROL + c' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:20:06 - [MESSAGE][PASSED] - Keys 'CONTROL + c' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:20:06 - [TEST_STEP][PASSED] - navigateToUrl("https://simulatortest.e2pay.co.id/simulator/"): Navigate to 'https://simulatortest.e2pay.co.id/simulator/' successfully
+
+2022-05-24 16:20:08 - [MESSAGE][PASSED] - Navigate to 'https://simulatortest.e2pay.co.id/simulator/' successfully
+
+2022-05-24 16:20:08 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2022-05-24 16:20:10 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-05-24 16:20:10 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/input_merhant code")): Object: 'Object Repository/simulator post/input_merhant code' is clicked on
+
+2022-05-24 16:20:11 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/input_merhant code' is clicked on
+
+2022-05-24 16:20:11 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:20:12 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:20:12 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(DELETE)): Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:20:12 - [MESSAGE][PASSED] - Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:20:12 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(CONTROL, "v")): Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:20:13 - [MESSAGE][PASSED] - Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:20:13 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(SHIFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT)): Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:20:14 - [MESSAGE][PASSED] - Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:20:14 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(CONTROL, "x")): Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:20:14 - [MESSAGE][PASSED] - Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:20:14 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/input_paymentID")): Object: 'Object Repository/simulator post/input_paymentID' is clicked on
+
+2022-05-24 16:20:15 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/input_paymentID' is clicked on
+
+2022-05-24 16:20:15 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:20:16 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:20:16 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(DELETE)): Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:20:17 - [MESSAGE][PASSED] - Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:20:17 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(CONTROL, "v")): Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:20:17 - [MESSAGE][PASSED] - Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:20:17 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(SHIFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT)): Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:20:19 - [MESSAGE][PASSED] - Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:20:19 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(CONTROL, "x")): Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:20:19 - [MESSAGE][PASSED] - Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:20:19 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/input_amount")): Object: 'Object Repository/simulator post/input_amount' is clicked on
+
+2022-05-24 16:20:20 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/input_amount' is clicked on
+
+2022-05-24 16:20:20 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_amount"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:20:21 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:20:21 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_amount"), Keys.chord(DELETE)): Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:20:21 - [MESSAGE][PASSED] - Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:20:21 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_amount"), Keys.chord(CONTROL, "v")): Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:20:22 - [MESSAGE][PASSED] - Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:20:22 - [TEST_STEP][PASSED] - value_amount = getText(findTestObject("simulator post/input_amount")): Text of object 'Object Repository/simulator post/input_amount' is: 'Amount'
+
+2022-05-24 16:20:22 - [MESSAGE][PASSED] - Text of object 'Object Repository/simulator post/input_amount' is: 'Amount'
+
+2022-05-24 16:20:22 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:20:23 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:20:23 - [TEST_STEP][PASSED] - println(value_amount): null
+
+2022-05-24 16:20:23 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2022-05-24 16:20:24 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-24 16:20:24 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384023697.png]]
+
+2022-05-24 16:20:24 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/btn_proses payment")): Object: 'Object Repository/simulator post/btn_proses payment' is clicked on
+
+2022-05-24 16:20:25 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/btn_proses payment' is clicked on
+
+2022-05-24 16:20:25 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:20:26 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:20:26 - [TEST_STEP][PASSED] - va = getText(findTestObject("page_tagihan BCA/div_700701701000000319")): Text of object 'Object Repository/page_tagihan BCA/div_700701701000000319' is: '8452170000122681'
+
+2022-05-24 16:20:32 - [MESSAGE][PASSED] - Text of object 'Object Repository/page_tagihan BCA/div_700701701000000319' is: '8452170000122681'
+
+2022-05-24 16:20:32 - [TEST_STEP][PASSED] - value_bayar = getText(findTestObject("page_tagihan BCA/span_Rp 300.000,00")): Text of object 'Object Repository/page_tagihan BCA/span_Rp 300.000,00' is: 'Rp 2.001,00'
+
+2022-05-24 16:20:33 - [MESSAGE][PASSED] - Text of object 'Object Repository/page_tagihan BCA/span_Rp 300.000,00' is: 'Rp 2.001,00'
+
+2022-05-24 16:20:33 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:20:34 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:20:34 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2022-05-24 16:20:35 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-24 16:20:35 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384034576.png]]
+
+2022-05-24 16:20:35 - [TEST_STEP][PASSED] - navigateToUrl("www.google.com"): Navigate to 'http://www.google.com' successfully
+
+2022-05-24 16:20:38 - [MESSAGE][PASSED] - Navigate to 'http://www.google.com' successfully
+
+2022-05-24 16:20:38 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:20:39 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:20:39 - [TEST_STEP][PASSED] - temp_amount = amount + i: null
+
+2022-05-24 16:20:39 - [TEST_STEP][PASSED] - temp = all + temp_amount + "00": null
+
+2022-05-24 16:20:39 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Google/search"), temp): Text 'EPT0000222200200' is set on object 'Object Repository/Page_Google/search'
+
+2022-05-24 16:20:40 - [MESSAGE][PASSED] - Text 'EPT0000222200200' is set on object 'Object Repository/Page_Google/search'
+
+2022-05-24 16:20:40 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Page_Google/search"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:20:40 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:20:40 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Page_Google/search"), Keys.chord(CONTROL, "c")): Keys 'CONTROL + c' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:20:41 - [MESSAGE][PASSED] - Keys 'CONTROL + c' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:20:41 - [TEST_STEP][PASSED] - navigateToUrl("https://simulatortest.e2pay.co.id/simulator/"): Navigate to 'https://simulatortest.e2pay.co.id/simulator/' successfully
+
+2022-05-24 16:20:42 - [MESSAGE][PASSED] - Navigate to 'https://simulatortest.e2pay.co.id/simulator/' successfully
+
+2022-05-24 16:20:42 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2022-05-24 16:20:44 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-05-24 16:20:44 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/input_merhant code")): Object: 'Object Repository/simulator post/input_merhant code' is clicked on
+
+2022-05-24 16:20:44 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/input_merhant code' is clicked on
+
+2022-05-24 16:20:44 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:20:45 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:20:45 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(DELETE)): Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:20:45 - [MESSAGE][PASSED] - Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:20:45 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(CONTROL, "v")): Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:20:46 - [MESSAGE][PASSED] - Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:20:46 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(SHIFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT)): Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:20:47 - [MESSAGE][PASSED] - Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:20:47 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(CONTROL, "x")): Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:20:47 - [MESSAGE][PASSED] - Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:20:47 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/input_paymentID")): Object: 'Object Repository/simulator post/input_paymentID' is clicked on
+
+2022-05-24 16:20:48 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/input_paymentID' is clicked on
+
+2022-05-24 16:20:48 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:20:49 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:20:49 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(DELETE)): Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:20:49 - [MESSAGE][PASSED] - Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:20:49 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(CONTROL, "v")): Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:20:50 - [MESSAGE][PASSED] - Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:20:50 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(SHIFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT)): Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:20:51 - [MESSAGE][PASSED] - Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:20:51 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(CONTROL, "x")): Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:20:51 - [MESSAGE][PASSED] - Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:20:51 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/input_amount")): Object: 'Object Repository/simulator post/input_amount' is clicked on
+
+2022-05-24 16:20:52 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/input_amount' is clicked on
+
+2022-05-24 16:20:52 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_amount"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:20:53 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:20:53 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_amount"), Keys.chord(DELETE)): Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:20:53 - [MESSAGE][PASSED] - Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:20:53 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_amount"), Keys.chord(CONTROL, "v")): Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:20:54 - [MESSAGE][PASSED] - Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:20:54 - [TEST_STEP][PASSED] - value_amount = getText(findTestObject("simulator post/input_amount")): Text of object 'Object Repository/simulator post/input_amount' is: 'Amount'
+
+2022-05-24 16:20:54 - [MESSAGE][PASSED] - Text of object 'Object Repository/simulator post/input_amount' is: 'Amount'
+
+2022-05-24 16:20:54 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:20:55 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:20:55 - [TEST_STEP][PASSED] - println(value_amount): null
+
+2022-05-24 16:20:55 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2022-05-24 16:20:56 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-24 16:20:56 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384055636.png]]
+
+2022-05-24 16:20:56 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/btn_proses payment")): Object: 'Object Repository/simulator post/btn_proses payment' is clicked on
+
+2022-05-24 16:20:56 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/btn_proses payment' is clicked on
+
+2022-05-24 16:20:56 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:20:57 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:20:57 - [TEST_STEP][PASSED] - va = getText(findTestObject("page_tagihan BCA/div_700701701000000319")): Text of object 'Object Repository/page_tagihan BCA/div_700701701000000319' is: '8452170000122682'
+
+2022-05-24 16:20:58 - [MESSAGE][PASSED] - Text of object 'Object Repository/page_tagihan BCA/div_700701701000000319' is: '8452170000122682'
+
+2022-05-24 16:20:58 - [TEST_STEP][PASSED] - value_bayar = getText(findTestObject("page_tagihan BCA/span_Rp 300.000,00")): Text of object 'Object Repository/page_tagihan BCA/span_Rp 300.000,00' is: 'Rp 2.002,00'
+
+2022-05-24 16:20:59 - [MESSAGE][PASSED] - Text of object 'Object Repository/page_tagihan BCA/span_Rp 300.000,00' is: 'Rp 2.002,00'
+
+2022-05-24 16:20:59 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:21:00 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:21:00 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2022-05-24 16:21:00 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-24 16:21:00 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384060385.png]]
+
+2022-05-24 16:21:00 - [TEST_STEP][PASSED] - navigateToUrl("www.google.com"): Navigate to 'http://www.google.com' successfully
+
+2022-05-24 16:21:02 - [MESSAGE][PASSED] - Navigate to 'http://www.google.com' successfully
+
+2022-05-24 16:21:02 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:21:03 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:21:03 - [TEST_STEP][PASSED] - temp_amount = amount + i: null
+
+2022-05-24 16:21:03 - [TEST_STEP][PASSED] - temp = all + temp_amount + "00": null
+
+2022-05-24 16:21:03 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Google/search"), temp): Text 'EPT0000222200300' is set on object 'Object Repository/Page_Google/search'
+
+2022-05-24 16:21:04 - [MESSAGE][PASSED] - Text 'EPT0000222200300' is set on object 'Object Repository/Page_Google/search'
+
+2022-05-24 16:21:04 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Page_Google/search"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:21:05 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:21:05 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Page_Google/search"), Keys.chord(CONTROL, "c")): Keys 'CONTROL + c' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:21:05 - [MESSAGE][PASSED] - Keys 'CONTROL + c' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:21:05 - [TEST_STEP][PASSED] - navigateToUrl("https://simulatortest.e2pay.co.id/simulator/"): Navigate to 'https://simulatortest.e2pay.co.id/simulator/' successfully
+
+2022-05-24 16:21:08 - [MESSAGE][PASSED] - Navigate to 'https://simulatortest.e2pay.co.id/simulator/' successfully
+
+2022-05-24 16:21:08 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2022-05-24 16:21:10 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-05-24 16:21:10 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/input_merhant code")): Object: 'Object Repository/simulator post/input_merhant code' is clicked on
+
+2022-05-24 16:21:12 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/input_merhant code' is clicked on
+
+2022-05-24 16:21:12 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:21:12 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:21:12 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(DELETE)): Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:21:13 - [MESSAGE][PASSED] - Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:21:13 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(CONTROL, "v")): Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:21:14 - [MESSAGE][PASSED] - Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:21:14 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(SHIFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT)): Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:21:14 - [MESSAGE][PASSED] - Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:21:14 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(CONTROL, "x")): Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:21:15 - [MESSAGE][PASSED] - Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:21:15 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/input_paymentID")): Object: 'Object Repository/simulator post/input_paymentID' is clicked on
+
+2022-05-24 16:21:15 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/input_paymentID' is clicked on
+
+2022-05-24 16:21:15 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:21:17 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:21:17 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(DELETE)): Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:21:17 - [MESSAGE][PASSED] - Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:21:17 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(CONTROL, "v")): Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:21:18 - [MESSAGE][PASSED] - Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:21:18 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(SHIFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT)): Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:21:19 - [MESSAGE][PASSED] - Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:21:19 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(CONTROL, "x")): Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:21:19 - [MESSAGE][PASSED] - Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:21:19 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/input_amount")): Object: 'Object Repository/simulator post/input_amount' is clicked on
+
+2022-05-24 16:21:20 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/input_amount' is clicked on
+
+2022-05-24 16:21:20 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_amount"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:21:20 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:21:20 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_amount"), Keys.chord(DELETE)): Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:21:21 - [MESSAGE][PASSED] - Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:21:21 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_amount"), Keys.chord(CONTROL, "v")): Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:21:21 - [MESSAGE][PASSED] - Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:21:21 - [TEST_STEP][PASSED] - value_amount = getText(findTestObject("simulator post/input_amount")): Text of object 'Object Repository/simulator post/input_amount' is: 'Amount'
+
+2022-05-24 16:21:22 - [MESSAGE][PASSED] - Text of object 'Object Repository/simulator post/input_amount' is: 'Amount'
+
+2022-05-24 16:21:22 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:21:23 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:21:23 - [TEST_STEP][PASSED] - println(value_amount): null
+
+2022-05-24 16:21:23 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2022-05-24 16:21:24 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-24 16:21:24 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384083579.png]]
+
+2022-05-24 16:21:24 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/btn_proses payment")): Object: 'Object Repository/simulator post/btn_proses payment' is clicked on
+
+2022-05-24 16:21:24 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/btn_proses payment' is clicked on
+
+2022-05-24 16:21:24 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:21:25 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:21:25 - [TEST_STEP][PASSED] - va = getText(findTestObject("page_tagihan BCA/div_700701701000000319")): Text of object 'Object Repository/page_tagihan BCA/div_700701701000000319' is: '8452170000122683'
+
+2022-05-24 16:21:27 - [MESSAGE][PASSED] - Text of object 'Object Repository/page_tagihan BCA/div_700701701000000319' is: '8452170000122683'
+
+2022-05-24 16:21:27 - [TEST_STEP][PASSED] - value_bayar = getText(findTestObject("page_tagihan BCA/span_Rp 300.000,00")): Text of object 'Object Repository/page_tagihan BCA/span_Rp 300.000,00' is: 'Rp 2.003,00'
+
+2022-05-24 16:21:27 - [MESSAGE][PASSED] - Text of object 'Object Repository/page_tagihan BCA/span_Rp 300.000,00' is: 'Rp 2.003,00'
+
+2022-05-24 16:21:28 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:21:29 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:21:29 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2022-05-24 16:21:29 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-24 16:21:29 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384089031.png]]
+
+2022-05-24 16:21:29 - [TEST_STEP][PASSED] - navigateToUrl("www.google.com"): Navigate to 'http://www.google.com' successfully
+
+2022-05-24 16:21:30 - [MESSAGE][PASSED] - Navigate to 'http://www.google.com' successfully
+
+2022-05-24 16:21:30 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:21:31 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:21:31 - [TEST_STEP][PASSED] - temp_amount = amount + i: null
+
+2022-05-24 16:21:31 - [TEST_STEP][PASSED] - temp = all + temp_amount + "00": null
+
+2022-05-24 16:21:31 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Google/search"), temp): Text 'EPT0000222200400' is set on object 'Object Repository/Page_Google/search'
+
+2022-05-24 16:21:32 - [MESSAGE][PASSED] - Text 'EPT0000222200400' is set on object 'Object Repository/Page_Google/search'
+
+2022-05-24 16:21:32 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Page_Google/search"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:21:33 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:21:33 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Page_Google/search"), Keys.chord(CONTROL, "c")): Keys 'CONTROL + c' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:21:34 - [MESSAGE][PASSED] - Keys 'CONTROL + c' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:21:34 - [TEST_STEP][PASSED] - navigateToUrl("https://simulatortest.e2pay.co.id/simulator/"): Navigate to 'https://simulatortest.e2pay.co.id/simulator/' successfully
+
+2022-05-24 16:21:34 - [MESSAGE][PASSED] - Navigate to 'https://simulatortest.e2pay.co.id/simulator/' successfully
+
+2022-05-24 16:21:34 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2022-05-24 16:21:36 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-05-24 16:21:36 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/input_merhant code")): Object: 'Object Repository/simulator post/input_merhant code' is clicked on
+
+2022-05-24 16:21:37 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/input_merhant code' is clicked on
+
+2022-05-24 16:21:37 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:21:37 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:21:37 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(DELETE)): Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:21:38 - [MESSAGE][PASSED] - Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:21:38 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(CONTROL, "v")): Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:21:39 - [MESSAGE][PASSED] - Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:21:39 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(SHIFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT)): Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:21:40 - [MESSAGE][PASSED] - Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:21:40 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(CONTROL, "x")): Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:21:40 - [MESSAGE][PASSED] - Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:21:40 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/input_paymentID")): Object: 'Object Repository/simulator post/input_paymentID' is clicked on
+
+2022-05-24 16:21:41 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/input_paymentID' is clicked on
+
+2022-05-24 16:21:41 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:21:42 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:21:42 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(DELETE)): Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:21:42 - [MESSAGE][PASSED] - Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:21:42 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(CONTROL, "v")): Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:21:43 - [MESSAGE][PASSED] - Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:21:43 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(SHIFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT)): Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:21:44 - [MESSAGE][PASSED] - Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:21:44 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(CONTROL, "x")): Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:21:44 - [MESSAGE][PASSED] - Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:21:44 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/input_amount")): Object: 'Object Repository/simulator post/input_amount' is clicked on
+
+2022-05-24 16:21:45 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/input_amount' is clicked on
+
+2022-05-24 16:21:45 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_amount"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:21:45 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:21:45 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_amount"), Keys.chord(DELETE)): Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:21:46 - [MESSAGE][PASSED] - Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:21:46 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_amount"), Keys.chord(CONTROL, "v")): Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:21:47 - [MESSAGE][PASSED] - Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:21:47 - [TEST_STEP][PASSED] - value_amount = getText(findTestObject("simulator post/input_amount")): Text of object 'Object Repository/simulator post/input_amount' is: 'Amount'
+
+2022-05-24 16:21:47 - [MESSAGE][PASSED] - Text of object 'Object Repository/simulator post/input_amount' is: 'Amount'
+
+2022-05-24 16:21:47 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:21:48 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:21:48 - [TEST_STEP][PASSED] - println(value_amount): null
+
+2022-05-24 16:21:48 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2022-05-24 16:21:49 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-24 16:21:49 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384108597.png]]
+
+2022-05-24 16:21:49 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/btn_proses payment")): Object: 'Object Repository/simulator post/btn_proses payment' is clicked on
+
+2022-05-24 16:21:49 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/btn_proses payment' is clicked on
+
+2022-05-24 16:21:49 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:21:50 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:21:50 - [TEST_STEP][PASSED] - va = getText(findTestObject("page_tagihan BCA/div_700701701000000319")): Text of object 'Object Repository/page_tagihan BCA/div_700701701000000319' is: '8452170000122684'
+
+2022-05-24 16:21:52 - [MESSAGE][PASSED] - Text of object 'Object Repository/page_tagihan BCA/div_700701701000000319' is: '8452170000122684'
+
+2022-05-24 16:21:52 - [TEST_STEP][PASSED] - value_bayar = getText(findTestObject("page_tagihan BCA/span_Rp 300.000,00")): Text of object 'Object Repository/page_tagihan BCA/span_Rp 300.000,00' is: 'Rp 2.004,00'
+
+2022-05-24 16:21:52 - [MESSAGE][PASSED] - Text of object 'Object Repository/page_tagihan BCA/span_Rp 300.000,00' is: 'Rp 2.004,00'
+
+2022-05-24 16:21:52 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:21:53 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:21:53 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2022-05-24 16:21:54 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-24 16:21:54 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384113724.png]]
+
+2022-05-24 16:21:54 - [TEST_STEP][PASSED] - navigateToUrl("www.google.com"): Navigate to 'http://www.google.com' successfully
+
+2022-05-24 16:21:55 - [MESSAGE][PASSED] - Navigate to 'http://www.google.com' successfully
+
+2022-05-24 16:21:55 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:21:56 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:21:56 - [TEST_STEP][PASSED] - temp_amount = amount + i: null
+
+2022-05-24 16:21:56 - [TEST_STEP][PASSED] - temp = all + temp_amount + "00": null
+
+2022-05-24 16:21:56 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Google/search"), temp): Text 'EPT0000222200500' is set on object 'Object Repository/Page_Google/search'
+
+2022-05-24 16:21:57 - [MESSAGE][PASSED] - Text 'EPT0000222200500' is set on object 'Object Repository/Page_Google/search'
+
+2022-05-24 16:21:57 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Page_Google/search"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:21:58 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:21:58 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Page_Google/search"), Keys.chord(CONTROL, "c")): Keys 'CONTROL + c' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:21:58 - [MESSAGE][PASSED] - Keys 'CONTROL + c' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:21:58 - [TEST_STEP][PASSED] - navigateToUrl("https://simulatortest.e2pay.co.id/simulator/"): Navigate to 'https://simulatortest.e2pay.co.id/simulator/' successfully
+
+2022-05-24 16:21:59 - [MESSAGE][PASSED] - Navigate to 'https://simulatortest.e2pay.co.id/simulator/' successfully
+
+2022-05-24 16:21:59 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2022-05-24 16:22:01 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-05-24 16:22:01 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/input_merhant code")): Object: 'Object Repository/simulator post/input_merhant code' is clicked on
+
+2022-05-24 16:22:01 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/input_merhant code' is clicked on
+
+2022-05-24 16:22:01 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:22:02 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:22:02 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(DELETE)): Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:22:03 - [MESSAGE][PASSED] - Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:22:03 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(CONTROL, "v")): Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:22:04 - [MESSAGE][PASSED] - Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:22:04 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(SHIFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT)): Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:22:04 - [MESSAGE][PASSED] - Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:22:04 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(CONTROL, "x")): Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:22:05 - [MESSAGE][PASSED] - Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:22:05 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/input_paymentID")): Object: 'Object Repository/simulator post/input_paymentID' is clicked on
+
+2022-05-24 16:22:05 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/input_paymentID' is clicked on
+
+2022-05-24 16:22:05 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:22:06 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:22:06 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(DELETE)): Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:22:07 - [MESSAGE][PASSED] - Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:22:07 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(CONTROL, "v")): Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:22:07 - [MESSAGE][PASSED] - Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:22:07 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(SHIFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT)): Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:22:08 - [MESSAGE][PASSED] - Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:22:08 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(CONTROL, "x")): Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:22:09 - [MESSAGE][PASSED] - Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:22:09 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/input_amount")): Object: 'Object Repository/simulator post/input_amount' is clicked on
+
+2022-05-24 16:22:09 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/input_amount' is clicked on
+
+2022-05-24 16:22:09 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_amount"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:22:10 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:22:10 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_amount"), Keys.chord(DELETE)): Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:22:10 - [MESSAGE][PASSED] - Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:22:10 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_amount"), Keys.chord(CONTROL, "v")): Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:22:11 - [MESSAGE][PASSED] - Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:22:11 - [TEST_STEP][PASSED] - value_amount = getText(findTestObject("simulator post/input_amount")): Text of object 'Object Repository/simulator post/input_amount' is: 'Amount'
+
+2022-05-24 16:22:12 - [MESSAGE][PASSED] - Text of object 'Object Repository/simulator post/input_amount' is: 'Amount'
+
+2022-05-24 16:22:12 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:22:13 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:22:13 - [TEST_STEP][PASSED] - println(value_amount): null
+
+2022-05-24 16:22:13 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2022-05-24 16:22:13 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-24 16:22:13 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384133116.png]]
+
+2022-05-24 16:22:13 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/btn_proses payment")): Object: 'Object Repository/simulator post/btn_proses payment' is clicked on
+
+2022-05-24 16:22:14 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/btn_proses payment' is clicked on
+
+2022-05-24 16:22:14 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:22:15 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:22:15 - [TEST_STEP][PASSED] - va = getText(findTestObject("page_tagihan BCA/div_700701701000000319")): Text of object 'Object Repository/page_tagihan BCA/div_700701701000000319' is: '8452170000122685'
+
+2022-05-24 16:22:16 - [MESSAGE][PASSED] - Text of object 'Object Repository/page_tagihan BCA/div_700701701000000319' is: '8452170000122685'
+
+2022-05-24 16:22:16 - [TEST_STEP][PASSED] - value_bayar = getText(findTestObject("page_tagihan BCA/span_Rp 300.000,00")): Text of object 'Object Repository/page_tagihan BCA/span_Rp 300.000,00' is: 'Rp 2.005,00'
+
+2022-05-24 16:22:17 - [MESSAGE][PASSED] - Text of object 'Object Repository/page_tagihan BCA/span_Rp 300.000,00' is: 'Rp 2.005,00'
+
+2022-05-24 16:22:17 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:22:18 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:22:18 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2022-05-24 16:22:18 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-24 16:22:18 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384138147.png]]
+
+2022-05-24 16:22:18 - [TEST_STEP][PASSED] - navigateToUrl("www.google.com"): Navigate to 'http://www.google.com' successfully
+
+2022-05-24 16:22:20 - [MESSAGE][PASSED] - Navigate to 'http://www.google.com' successfully
+
+2022-05-24 16:22:20 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:22:21 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:22:21 - [TEST_STEP][PASSED] - temp_amount = amount + i: null
+
+2022-05-24 16:22:21 - [TEST_STEP][PASSED] - temp = all + temp_amount + "00": null
+
+2022-05-24 16:22:21 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Google/search"), temp): Text 'EPT0000222200600' is set on object 'Object Repository/Page_Google/search'
+
+2022-05-24 16:22:21 - [MESSAGE][PASSED] - Text 'EPT0000222200600' is set on object 'Object Repository/Page_Google/search'
+
+2022-05-24 16:22:21 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Page_Google/search"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:22:23 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:22:23 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Page_Google/search"), Keys.chord(CONTROL, "c")): Keys 'CONTROL + c' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:22:23 - [MESSAGE][PASSED] - Keys 'CONTROL + c' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:22:23 - [TEST_STEP][PASSED] - navigateToUrl("https://simulatortest.e2pay.co.id/simulator/"): Navigate to 'https://simulatortest.e2pay.co.id/simulator/' successfully
+
+2022-05-24 16:22:25 - [MESSAGE][PASSED] - Navigate to 'https://simulatortest.e2pay.co.id/simulator/' successfully
+
+2022-05-24 16:22:25 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2022-05-24 16:22:27 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-05-24 16:22:27 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/input_merhant code")): Object: 'Object Repository/simulator post/input_merhant code' is clicked on
+
+2022-05-24 16:22:30 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/input_merhant code' is clicked on
+
+2022-05-24 16:22:30 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:22:31 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:22:31 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(DELETE)): Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:22:31 - [MESSAGE][PASSED] - Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:22:31 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(CONTROL, "v")): Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:22:32 - [MESSAGE][PASSED] - Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:22:32 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(SHIFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT)): Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:22:33 - [MESSAGE][PASSED] - Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:22:33 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(CONTROL, "x")): Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:22:33 - [MESSAGE][PASSED] - Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:22:33 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/input_paymentID")): Object: 'Object Repository/simulator post/input_paymentID' is clicked on
+
+2022-05-24 16:22:34 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/input_paymentID' is clicked on
+
+2022-05-24 16:22:34 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:22:35 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:22:35 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(DELETE)): Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:22:36 - [MESSAGE][PASSED] - Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:22:36 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(CONTROL, "v")): Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:22:36 - [MESSAGE][PASSED] - Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:22:36 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(SHIFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT)): Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:22:37 - [MESSAGE][PASSED] - Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:22:37 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(CONTROL, "x")): Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:22:37 - [MESSAGE][PASSED] - Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:22:37 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/input_amount")): Object: 'Object Repository/simulator post/input_amount' is clicked on
+
+2022-05-24 16:22:38 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/input_amount' is clicked on
+
+2022-05-24 16:22:38 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_amount"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:22:39 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:22:39 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_amount"), Keys.chord(DELETE)): Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:22:39 - [MESSAGE][PASSED] - Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:22:39 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_amount"), Keys.chord(CONTROL, "v")): Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:22:40 - [MESSAGE][PASSED] - Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:22:40 - [TEST_STEP][PASSED] - value_amount = getText(findTestObject("simulator post/input_amount")): Text of object 'Object Repository/simulator post/input_amount' is: 'Amount'
+
+2022-05-24 16:22:40 - [MESSAGE][PASSED] - Text of object 'Object Repository/simulator post/input_amount' is: 'Amount'
+
+2022-05-24 16:22:40 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:22:41 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:22:41 - [TEST_STEP][PASSED] - println(value_amount): null
+
+2022-05-24 16:22:41 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2022-05-24 16:22:42 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-24 16:22:42 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384161764.png]]
+
+2022-05-24 16:22:42 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/btn_proses payment")): Object: 'Object Repository/simulator post/btn_proses payment' is clicked on
+
+2022-05-24 16:22:43 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/btn_proses payment' is clicked on
+
+2022-05-24 16:22:43 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:22:44 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:22:44 - [TEST_STEP][PASSED] - va = getText(findTestObject("page_tagihan BCA/div_700701701000000319")): Text of object 'Object Repository/page_tagihan BCA/div_700701701000000319' is: '8452170000122686'
+
+2022-05-24 16:22:44 - [MESSAGE][PASSED] - Text of object 'Object Repository/page_tagihan BCA/div_700701701000000319' is: '8452170000122686'
+
+2022-05-24 16:22:44 - [TEST_STEP][PASSED] - value_bayar = getText(findTestObject("page_tagihan BCA/span_Rp 300.000,00")): Text of object 'Object Repository/page_tagihan BCA/span_Rp 300.000,00' is: 'Rp 2.006,00'
+
+2022-05-24 16:22:45 - [MESSAGE][PASSED] - Text of object 'Object Repository/page_tagihan BCA/span_Rp 300.000,00' is: 'Rp 2.006,00'
+
+2022-05-24 16:22:45 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:22:46 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:22:46 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2022-05-24 16:22:46 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-24 16:22:47 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384166529.png]]
+
+2022-05-24 16:22:47 - [TEST_STEP][PASSED] - navigateToUrl("www.google.com"): Navigate to 'http://www.google.com' successfully
+
+2022-05-24 16:22:48 - [MESSAGE][PASSED] - Navigate to 'http://www.google.com' successfully
+
+2022-05-24 16:22:48 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:22:49 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:22:49 - [TEST_STEP][PASSED] - temp_amount = amount + i: null
+
+2022-05-24 16:22:49 - [TEST_STEP][PASSED] - temp = all + temp_amount + "00": null
+
+2022-05-24 16:22:49 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Google/search"), temp): Text 'EPT0000222200700' is set on object 'Object Repository/Page_Google/search'
+
+2022-05-24 16:22:50 - [MESSAGE][PASSED] - Text 'EPT0000222200700' is set on object 'Object Repository/Page_Google/search'
+
+2022-05-24 16:22:50 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Page_Google/search"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:22:50 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:22:50 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Page_Google/search"), Keys.chord(CONTROL, "c")): Keys 'CONTROL + c' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:22:51 - [MESSAGE][PASSED] - Keys 'CONTROL + c' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:22:51 - [TEST_STEP][PASSED] - navigateToUrl("https://simulatortest.e2pay.co.id/simulator/"): Navigate to 'https://simulatortest.e2pay.co.id/simulator/' successfully
+
+2022-05-24 16:22:52 - [MESSAGE][PASSED] - Navigate to 'https://simulatortest.e2pay.co.id/simulator/' successfully
+
+2022-05-24 16:22:52 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2022-05-24 16:22:54 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-05-24 16:22:54 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/input_merhant code")): Object: 'Object Repository/simulator post/input_merhant code' is clicked on
+
+2022-05-24 16:22:54 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/input_merhant code' is clicked on
+
+2022-05-24 16:22:54 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:22:55 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:22:55 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(DELETE)): Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:22:56 - [MESSAGE][PASSED] - Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:22:56 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(CONTROL, "v")): Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:22:56 - [MESSAGE][PASSED] - Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:22:56 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(SHIFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT)): Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:22:57 - [MESSAGE][PASSED] - Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:22:57 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(CONTROL, "x")): Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:22:57 - [MESSAGE][PASSED] - Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:22:57 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/input_paymentID")): Object: 'Object Repository/simulator post/input_paymentID' is clicked on
+
+2022-05-24 16:22:58 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/input_paymentID' is clicked on
+
+2022-05-24 16:22:58 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:22:59 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:22:59 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(DELETE)): Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:22:59 - [MESSAGE][PASSED] - Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:22:59 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(CONTROL, "v")): Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:23:00 - [MESSAGE][PASSED] - Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:23:00 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(SHIFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT)): Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:23:01 - [MESSAGE][PASSED] - Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:23:01 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(CONTROL, "x")): Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:23:01 - [MESSAGE][PASSED] - Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:23:01 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/input_amount")): Object: 'Object Repository/simulator post/input_amount' is clicked on
+
+2022-05-24 16:23:02 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/input_amount' is clicked on
+
+2022-05-24 16:23:02 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_amount"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:23:03 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:23:03 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_amount"), Keys.chord(DELETE)): Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:23:03 - [MESSAGE][PASSED] - Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:23:03 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_amount"), Keys.chord(CONTROL, "v")): Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:23:04 - [MESSAGE][PASSED] - Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:23:04 - [TEST_STEP][PASSED] - value_amount = getText(findTestObject("simulator post/input_amount")): Text of object 'Object Repository/simulator post/input_amount' is: 'Amount'
+
+2022-05-24 16:23:04 - [MESSAGE][PASSED] - Text of object 'Object Repository/simulator post/input_amount' is: 'Amount'
+
+2022-05-24 16:23:04 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:23:05 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:23:05 - [TEST_STEP][PASSED] - println(value_amount): null
+
+2022-05-24 16:23:05 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2022-05-24 16:23:06 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-24 16:23:06 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384185860.png]]
+
+2022-05-24 16:23:06 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/btn_proses payment")): Object: 'Object Repository/simulator post/btn_proses payment' is clicked on
+
+2022-05-24 16:23:07 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/btn_proses payment' is clicked on
+
+2022-05-24 16:23:07 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:23:08 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:23:08 - [TEST_STEP][PASSED] - va = getText(findTestObject("page_tagihan BCA/div_700701701000000319")): Text of object 'Object Repository/page_tagihan BCA/div_700701701000000319' is: '8452170000122688'
+
+2022-05-24 16:23:09 - [MESSAGE][PASSED] - Text of object 'Object Repository/page_tagihan BCA/div_700701701000000319' is: '8452170000122688'
+
+2022-05-24 16:23:09 - [TEST_STEP][PASSED] - value_bayar = getText(findTestObject("page_tagihan BCA/span_Rp 300.000,00")): Text of object 'Object Repository/page_tagihan BCA/span_Rp 300.000,00' is: 'Rp 2.007,00'
+
+2022-05-24 16:23:09 - [MESSAGE][PASSED] - Text of object 'Object Repository/page_tagihan BCA/span_Rp 300.000,00' is: 'Rp 2.007,00'
+
+2022-05-24 16:23:09 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:23:10 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:23:10 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2022-05-24 16:23:11 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-24 16:23:11 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384190793.png]]
+
+2022-05-24 16:23:11 - [TEST_STEP][PASSED] - navigateToUrl("www.google.com"): Navigate to 'http://www.google.com' successfully
+
+2022-05-24 16:23:12 - [MESSAGE][PASSED] - Navigate to 'http://www.google.com' successfully
+
+2022-05-24 16:23:12 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:23:13 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:23:13 - [TEST_STEP][PASSED] - temp_amount = amount + i: null
+
+2022-05-24 16:23:13 - [TEST_STEP][PASSED] - temp = all + temp_amount + "00": null
+
+2022-05-24 16:23:13 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Google/search"), temp): Text 'EPT0000222200800' is set on object 'Object Repository/Page_Google/search'
+
+2022-05-24 16:23:14 - [MESSAGE][PASSED] - Text 'EPT0000222200800' is set on object 'Object Repository/Page_Google/search'
+
+2022-05-24 16:23:14 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Page_Google/search"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:23:15 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:23:15 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Page_Google/search"), Keys.chord(CONTROL, "c")): Keys 'CONTROL + c' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:23:15 - [MESSAGE][PASSED] - Keys 'CONTROL + c' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:23:15 - [TEST_STEP][PASSED] - navigateToUrl("https://simulatortest.e2pay.co.id/simulator/"): Navigate to 'https://simulatortest.e2pay.co.id/simulator/' successfully
+
+2022-05-24 16:23:16 - [MESSAGE][PASSED] - Navigate to 'https://simulatortest.e2pay.co.id/simulator/' successfully
+
+2022-05-24 16:23:16 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2022-05-24 16:23:18 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-05-24 16:23:18 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/input_merhant code")): Object: 'Object Repository/simulator post/input_merhant code' is clicked on
+
+2022-05-24 16:23:18 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/input_merhant code' is clicked on
+
+2022-05-24 16:23:18 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:23:19 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:23:19 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(DELETE)): Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:23:20 - [MESSAGE][PASSED] - Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:23:20 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(CONTROL, "v")): Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:23:21 - [MESSAGE][PASSED] - Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:23:21 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(SHIFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT)): Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:23:21 - [MESSAGE][PASSED] - Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:23:21 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(CONTROL, "x")): Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:23:22 - [MESSAGE][PASSED] - Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:23:22 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/input_paymentID")): Object: 'Object Repository/simulator post/input_paymentID' is clicked on
+
+2022-05-24 16:23:22 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/input_paymentID' is clicked on
+
+2022-05-24 16:23:22 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:23:23 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:23:23 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(DELETE)): Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:23:24 - [MESSAGE][PASSED] - Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:23:24 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(CONTROL, "v")): Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:23:24 - [MESSAGE][PASSED] - Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:23:24 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(SHIFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT)): Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:23:25 - [MESSAGE][PASSED] - Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:23:25 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(CONTROL, "x")): Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:23:26 - [MESSAGE][PASSED] - Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:23:26 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/input_amount")): Object: 'Object Repository/simulator post/input_amount' is clicked on
+
+2022-05-24 16:23:26 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/input_amount' is clicked on
+
+2022-05-24 16:23:26 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_amount"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:23:27 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:23:27 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_amount"), Keys.chord(DELETE)): Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:23:27 - [MESSAGE][PASSED] - Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:23:27 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_amount"), Keys.chord(CONTROL, "v")): Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:23:28 - [MESSAGE][PASSED] - Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:23:28 - [TEST_STEP][PASSED] - value_amount = getText(findTestObject("simulator post/input_amount")): Text of object 'Object Repository/simulator post/input_amount' is: 'Amount'
+
+2022-05-24 16:23:28 - [MESSAGE][PASSED] - Text of object 'Object Repository/simulator post/input_amount' is: 'Amount'
+
+2022-05-24 16:23:28 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:23:29 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:23:29 - [TEST_STEP][PASSED] - println(value_amount): null
+
+2022-05-24 16:23:29 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2022-05-24 16:23:30 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-24 16:23:30 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384209925.png]]
+
+2022-05-24 16:23:30 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/btn_proses payment")): Object: 'Object Repository/simulator post/btn_proses payment' is clicked on
+
+2022-05-24 16:23:31 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/btn_proses payment' is clicked on
+
+2022-05-24 16:23:31 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:23:32 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:23:32 - [TEST_STEP][PASSED] - va = getText(findTestObject("page_tagihan BCA/div_700701701000000319")): Text of object 'Object Repository/page_tagihan BCA/div_700701701000000319' is: '8452170000122689'
+
+2022-05-24 16:23:32 - [MESSAGE][PASSED] - Text of object 'Object Repository/page_tagihan BCA/div_700701701000000319' is: '8452170000122689'
+
+2022-05-24 16:23:33 - [TEST_STEP][PASSED] - value_bayar = getText(findTestObject("page_tagihan BCA/span_Rp 300.000,00")): Text of object 'Object Repository/page_tagihan BCA/span_Rp 300.000,00' is: 'Rp 2.008,00'
+
+2022-05-24 16:23:33 - [MESSAGE][PASSED] - Text of object 'Object Repository/page_tagihan BCA/span_Rp 300.000,00' is: 'Rp 2.008,00'
+
+2022-05-24 16:23:33 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:23:34 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:23:34 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2022-05-24 16:23:35 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-24 16:23:35 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384214711.png]]
+
+2022-05-24 16:23:35 - [TEST_STEP][PASSED] - navigateToUrl("www.google.com"): Navigate to 'http://www.google.com' successfully
+
+2022-05-24 16:23:36 - [MESSAGE][PASSED] - Navigate to 'http://www.google.com' successfully
+
+2022-05-24 16:23:36 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:23:37 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:23:37 - [TEST_STEP][PASSED] - temp_amount = amount + i: null
+
+2022-05-24 16:23:37 - [TEST_STEP][PASSED] - temp = all + temp_amount + "00": null
+
+2022-05-24 16:23:37 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Google/search"), temp): Text 'EPT0000222200900' is set on object 'Object Repository/Page_Google/search'
+
+2022-05-24 16:23:38 - [MESSAGE][PASSED] - Text 'EPT0000222200900' is set on object 'Object Repository/Page_Google/search'
+
+2022-05-24 16:23:38 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Page_Google/search"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:23:39 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:23:39 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Page_Google/search"), Keys.chord(CONTROL, "c")): Keys 'CONTROL + c' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:23:39 - [MESSAGE][PASSED] - Keys 'CONTROL + c' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:23:39 - [TEST_STEP][PASSED] - navigateToUrl("https://simulatortest.e2pay.co.id/simulator/"): Navigate to 'https://simulatortest.e2pay.co.id/simulator/' successfully
+
+2022-05-24 16:23:41 - [MESSAGE][PASSED] - Navigate to 'https://simulatortest.e2pay.co.id/simulator/' successfully
+
+2022-05-24 16:23:41 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2022-05-24 16:23:43 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-05-24 16:23:43 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/input_merhant code")): Object: 'Object Repository/simulator post/input_merhant code' is clicked on
+
+2022-05-24 16:23:44 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/input_merhant code' is clicked on
+
+2022-05-24 16:23:44 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:23:45 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:23:45 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(DELETE)): Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:23:45 - [MESSAGE][PASSED] - Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:23:45 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(CONTROL, "v")): Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:23:46 - [MESSAGE][PASSED] - Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:23:46 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(SHIFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT)): Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:23:47 - [MESSAGE][PASSED] - Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:23:47 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(CONTROL, "x")): Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:23:47 - [MESSAGE][PASSED] - Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:23:47 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/input_paymentID")): Object: 'Object Repository/simulator post/input_paymentID' is clicked on
+
+2022-05-24 16:23:48 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/input_paymentID' is clicked on
+
+2022-05-24 16:23:48 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:23:49 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:23:49 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(DELETE)): Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:23:49 - [MESSAGE][PASSED] - Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:23:49 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(CONTROL, "v")): Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:23:50 - [MESSAGE][PASSED] - Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:23:50 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(SHIFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT)): Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:23:51 - [MESSAGE][PASSED] - Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:23:51 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(CONTROL, "x")): Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:23:51 - [MESSAGE][PASSED] - Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:23:51 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/input_amount")): Object: 'Object Repository/simulator post/input_amount' is clicked on
+
+2022-05-24 16:23:52 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/input_amount' is clicked on
+
+2022-05-24 16:23:52 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_amount"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:23:53 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:23:53 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_amount"), Keys.chord(DELETE)): Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:23:53 - [MESSAGE][PASSED] - Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:23:53 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_amount"), Keys.chord(CONTROL, "v")): Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:23:54 - [MESSAGE][PASSED] - Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:23:54 - [TEST_STEP][PASSED] - value_amount = getText(findTestObject("simulator post/input_amount")): Text of object 'Object Repository/simulator post/input_amount' is: 'Amount'
+
+2022-05-24 16:23:54 - [MESSAGE][PASSED] - Text of object 'Object Repository/simulator post/input_amount' is: 'Amount'
+
+2022-05-24 16:23:54 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:23:55 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:23:55 - [TEST_STEP][PASSED] - println(value_amount): null
+
+2022-05-24 16:23:55 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2022-05-24 16:23:56 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-24 16:23:56 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384235692.png]]
+
+2022-05-24 16:23:56 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/btn_proses payment")): Object: 'Object Repository/simulator post/btn_proses payment' is clicked on
+
+2022-05-24 16:23:56 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/btn_proses payment' is clicked on
+
+2022-05-24 16:23:56 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:23:57 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:23:57 - [TEST_STEP][PASSED] - va = getText(findTestObject("page_tagihan BCA/div_700701701000000319")): Text of object 'Object Repository/page_tagihan BCA/div_700701701000000319' is: '8452170000122690'
+
+2022-05-24 16:23:59 - [MESSAGE][PASSED] - Text of object 'Object Repository/page_tagihan BCA/div_700701701000000319' is: '8452170000122690'
+
+2022-05-24 16:23:59 - [TEST_STEP][PASSED] - value_bayar = getText(findTestObject("page_tagihan BCA/span_Rp 300.000,00")): Text of object 'Object Repository/page_tagihan BCA/span_Rp 300.000,00' is: 'Rp 2.009,00'
+
+2022-05-24 16:24:00 - [MESSAGE][PASSED] - Text of object 'Object Repository/page_tagihan BCA/span_Rp 300.000,00' is: 'Rp 2.009,00'
+
+2022-05-24 16:24:00 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:24:01 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:24:01 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2022-05-24 16:24:01 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-24 16:24:01 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384241384.png]]
+
+2022-05-24 16:24:01 - [TEST_STEP][PASSED] - navigateToUrl("www.google.com"): Navigate to 'http://www.google.com' successfully
+
+2022-05-24 16:24:03 - [MESSAGE][PASSED] - Navigate to 'http://www.google.com' successfully
+
+2022-05-24 16:24:03 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:24:04 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:24:04 - [TEST_STEP][PASSED] - temp_amount = amount + i: null
+
+2022-05-24 16:24:04 - [TEST_STEP][PASSED] - temp = all + temp_amount + "00": null
+
+2022-05-24 16:24:04 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Google/search"), temp): Text 'EPT0000222201000' is set on object 'Object Repository/Page_Google/search'
+
+2022-05-24 16:24:05 - [MESSAGE][PASSED] - Text 'EPT0000222201000' is set on object 'Object Repository/Page_Google/search'
+
+2022-05-24 16:24:05 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Page_Google/search"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:24:05 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:24:05 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Page_Google/search"), Keys.chord(CONTROL, "c")): Keys 'CONTROL + c' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:24:06 - [MESSAGE][PASSED] - Keys 'CONTROL + c' sent to object: 'Object Repository/Page_Google/search'
+
+2022-05-24 16:24:06 - [TEST_STEP][PASSED] - navigateToUrl("https://simulatortest.e2pay.co.id/simulator/"): Navigate to 'https://simulatortest.e2pay.co.id/simulator/' successfully
+
+2022-05-24 16:24:07 - [MESSAGE][PASSED] - Navigate to 'https://simulatortest.e2pay.co.id/simulator/' successfully
+
+2022-05-24 16:24:07 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2022-05-24 16:24:09 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-05-24 16:24:09 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/input_merhant code")): Object: 'Object Repository/simulator post/input_merhant code' is clicked on
+
+2022-05-24 16:24:10 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/input_merhant code' is clicked on
+
+2022-05-24 16:24:10 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:24:11 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:24:11 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(DELETE)): Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:24:11 - [MESSAGE][PASSED] - Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:24:11 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(CONTROL, "v")): Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:24:12 - [MESSAGE][PASSED] - Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:24:12 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(SHIFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT)): Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:24:13 - [MESSAGE][PASSED] - Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:24:13 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_merhant code"), Keys.chord(CONTROL, "x")): Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:24:13 - [MESSAGE][PASSED] - Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_merhant code'
+
+2022-05-24 16:24:13 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/input_paymentID")): Object: 'Object Repository/simulator post/input_paymentID' is clicked on
+
+2022-05-24 16:24:14 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/input_paymentID' is clicked on
+
+2022-05-24 16:24:14 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:24:15 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:24:15 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(DELETE)): Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:24:15 - [MESSAGE][PASSED] - Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:24:15 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(CONTROL, "v")): Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:24:16 - [MESSAGE][PASSED] - Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:24:16 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(SHIFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT, ARROW_LEFT)): Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:24:17 - [MESSAGE][PASSED] - Keys 'SHIFT + LEFT + LEFT + LEFT + LEFT + LEFT + LEFT + ' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:24:17 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_paymentID"), Keys.chord(CONTROL, "x")): Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:24:17 - [MESSAGE][PASSED] - Keys 'CONTROL + x' sent to object: 'Object Repository/simulator post/input_paymentID'
+
+2022-05-24 16:24:17 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/input_amount")): Object: 'Object Repository/simulator post/input_amount' is clicked on
+
+2022-05-24 16:24:17 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/input_amount' is clicked on
+
+2022-05-24 16:24:17 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_amount"), Keys.chord(CONTROL, "a")): Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:24:18 - [MESSAGE][PASSED] - Keys 'CONTROL + a' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:24:18 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_amount"), Keys.chord(DELETE)): Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:24:19 - [MESSAGE][PASSED] - Keys 'DELETE + ' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:24:19 - [TEST_STEP][PASSED] - sendKeys(findTestObject("simulator post/input_amount"), Keys.chord(CONTROL, "v")): Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:24:19 - [MESSAGE][PASSED] - Keys 'CONTROL + v' sent to object: 'Object Repository/simulator post/input_amount'
+
+2022-05-24 16:24:19 - [TEST_STEP][PASSED] - value_amount = getText(findTestObject("simulator post/input_amount")): Text of object 'Object Repository/simulator post/input_amount' is: 'Amount'
+
+2022-05-24 16:24:20 - [MESSAGE][PASSED] - Text of object 'Object Repository/simulator post/input_amount' is: 'Amount'
+
+2022-05-24 16:24:20 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:24:21 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:24:21 - [TEST_STEP][PASSED] - println(value_amount): null
+
+2022-05-24 16:24:21 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2022-05-24 16:24:21 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-24 16:24:22 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384261283.png]]
+
+2022-05-24 16:24:22 - [TEST_STEP][PASSED] - click(findTestObject("simulator post/btn_proses payment")): Object: 'Object Repository/simulator post/btn_proses payment' is clicked on
+
+2022-05-24 16:24:22 - [MESSAGE][PASSED] - Object: 'Object Repository/simulator post/btn_proses payment' is clicked on
+
+2022-05-24 16:24:22 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:24:23 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:24:23 - [TEST_STEP][PASSED] - va = getText(findTestObject("page_tagihan BCA/div_700701701000000319")): Text of object 'Object Repository/page_tagihan BCA/div_700701701000000319' is: '8452170000122691'
+
+2022-05-24 16:24:24 - [MESSAGE][PASSED] - Text of object 'Object Repository/page_tagihan BCA/div_700701701000000319' is: '8452170000122691'
+
+2022-05-24 16:24:24 - [TEST_STEP][PASSED] - value_bayar = getText(findTestObject("page_tagihan BCA/span_Rp 300.000,00")): Text of object 'Object Repository/page_tagihan BCA/span_Rp 300.000,00' is: 'Rp 2.010,00'
+
+2022-05-24 16:24:25 - [MESSAGE][PASSED] - Text of object 'Object Repository/page_tagihan BCA/span_Rp 300.000,00' is: 'Rp 2.010,00'
+
+2022-05-24 16:24:25 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-05-24 16:24:26 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-05-24 16:24:26 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2022-05-24 16:24:26 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-05-24 16:24:26 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\E2PAY\\git\\simulatorTestHp\\Reports\\20220524_161941\\Permata VA noPay 2\\20220524_161941\\1653384266125.png]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-05-24 16:19:48 - [TEST_SUITE][PASSED] - Permata VA noPay 2: Test Cases/simulator - pass PERMATA noPay - Copy]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
